@@ -1,0 +1,928 @@
+2023-07-22 16:44:29.431 6553-6567/com.hike.mazuma.debug I/ke.mazuma.debu: Background concurrent copying GC freed 120374(4022KB) AllocSpace objects, 20(1760KB) LOS objects, 1% free, 121MB/123MB, paused 520us total 2.044s
+2023-07-22 16:44:30.013 6553-6553/com.hike.mazuma.debug D/GtRefreshTest: The currentTs from home is 1690024470013
+2023-07-22 16:44:30.917 6553-6553/com.hike.mazuma.debug D/ViewUtils: Animation scale is 1.0
+2023-07-22 16:44:30.919 6553-6898/com.hike.mazuma.debug V/MediaPlayerNative: isPlaying: 0
+2023-07-22 16:44:30.919 6553-6553/com.hike.mazuma.debug W/Settings: Setting development_settings_enabled has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+2023-07-22 16:44:30.921 6553-6898/com.hike.mazuma.debug D/MediaPlayer: MediaPlayer start called
+2023-07-22 16:44:30.922 6553-6898/com.hike.mazuma.debug V/MediaPlayerNative: getDuration_l
+2023-07-22 16:44:30.924 6553-6898/com.hike.mazuma.debug V/PlayerBase: baseStart() piid=1751
+2023-07-22 16:44:30.927 6553-6898/com.hike.mazuma.debug V/MediaPlayerNative: start
+2023-07-22 16:44:30.929 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: message received msg=211, ext1=0, ext2=0
+2023-07-22 16:44:30.933 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: unrecognized message: (211, 0, 0)
+2023-07-22 16:44:30.933 6553-6898/com.hike.mazuma.debug D/MediaPlayer: MediaPlayer start end
+2023-07-22 16:44:30.933 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: callback application
+2023-07-22 16:44:30.933 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: back from callback
+2023-07-22 16:44:30.968 6553-6553/com.hike.mazuma.debug V/CleverTap:TEST-KZK-9R8-6W6Z: App in background
+2023-07-22 16:44:30.968 6553-6553/com.hike.mazuma.debug I/BranchSDK: onActivityPaused, activity = com.hike.mazuma.ui.homeactivity.HomeActivity@e79d48a
+2023-07-22 16:44:30.969 6553-6553/com.hike.mazuma.debug D/HomeBanners: stopTimer
+2023-07-22 16:44:30.973 6553-6665/com.hike.mazuma.debug V/CleverTap: PostAsyncSafely Task: activityPaused starting on...pool-28-thread-1
+2023-07-22 16:44:30.973 6553-6665/com.hike.mazuma.debug V/CleverTap:TEST-KZK-9R8-6W6Z: Updated session time: 1690024470
+2023-07-22 16:44:30.973 6553-6665/com.hike.mazuma.debug V/CleverTap: PostAsyncSafely Task: activityPaused executed successfully on...pool-28-thread-1
+2023-07-22 16:44:31.002 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: message received msg=6, ext1=0, ext2=0
+2023-07-22 16:44:31.002 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: unrecognized message: (6, 0, 0)
+2023-07-22 16:44:31.002 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: callback application
+2023-07-22 16:44:31.004 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: back from callback
+2023-07-22 16:44:31.005 6553-6898/com.hike.mazuma.debug D/MTP: onPaused: false
+2023-07-22 16:44:31.006 6553-6898/com.hike.mazuma.debug V/MediaPlayerNative: getCurrentPosition
+2023-07-22 16:44:31.007 6553-6898/com.hike.mazuma.debug V/MediaPlayerNative: isPlaying: 1
+2023-07-22 16:44:31.009 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: message received msg=211, ext1=0, ext2=0
+2023-07-22 16:44:31.009 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: unrecognized message: (211, 0, 0)
+2023-07-22 16:44:31.009 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: callback application
+2023-07-22 16:44:31.009 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: back from callback
+2023-07-22 16:44:31.017 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:31.017 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:31.018 6553-6646/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_user_action","c":"game_v2","o":"grand_tournament_play_card_clicked","fa":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","v":"non_vip","ra":"table_ui_v2","b":"TournamentCardSummary(tournamentId=ZLrJF2-ggE0ihTws, winnings=80, sts=1690024456321, endTs=1690050599000, userRank=1, totalRanks=2, userEntries=1, maxEntries=1, prizePool=null, firstPrize=2, userSlots=1, maxSlots=50, spotsUsed=2, maxSpots=20, refreshSlotsTs=null, state=RUNNING, matchPrizeWinnings=7, lottieText1=Win match,, lottieText2=get INSTANT credit)","sec":"2","ser":"tournament_active","src":"rush_homescreen","cs":36,"vs":"cash","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024471017,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024471}
+2023-07-22 16:44:31.020 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:31.020 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:31.020 6553-10392/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :69310bytes
+2023-07-22 16:44:31.020 6553-6646/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_user_action","c":"homescreen","o":"game_play_button_clicked","fa":"table_screen","g":"ludo","s":"gt:table1678871131835","v":"non_vip","src":"rush_homescreen","cs":36,"vs":"cash","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024471020,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024471}
+2023-07-22 16:44:31.023 6553-10392/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :70317bytes
+2023-07-22 16:44:31.025 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:31.025 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:31.026 6553-6646/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"setting useUnityNonTransparent to true from source: getRushUnityActivityIntent","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024471025,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024471}
+2023-07-22 16:44:31.026 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:31.027 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:31.027 6553-6646/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"Setting game launched in unity session as true from source: getRushUnityActivityIntent","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024471027,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024471}
+2023-07-22 16:44:31.027 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:31.027 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:31.029 6553-10392/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :70986bytes
+2023-07-22 16:44:31.034 6553-6646/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"Inside shouldRetainUnityActivity from source getRushUnityActivityIntent: Total: 2.73 Free: 0.84 retain: true; master: true, total: true, free: true, server master flag: 1","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024471028,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024471}
+2023-07-22 16:44:31.034 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:31.034 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:31.035 6553-10392/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :71617bytes
+2023-07-22 16:44:31.037 6553-6646/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"Inside shouldRetainUnityActivity from source shouldOptimizeUnityFirstLaunch: Returning cached value: true","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024471034,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024471}
+2023-07-22 16:44:31.038 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:31.038 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:31.040 6553-6646/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"inside shouldOptimizeUnityFirstLaunch: result: true, masterFlag: true, osFlag: true, ramFlag: true, retainUnityFlag: true","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024471038,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024471}
+2023-07-22 16:44:31.040 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:31.040 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:31.045 6553-6646/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"launching RushGameUnityActivity with retain true","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024471040,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024471}
+2023-07-22 16:44:31.046 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:31.046 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:31.046 6553-10392/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :72256bytes
+2023-07-22 16:44:31.046 10775-10775/? I/uma.debug:Unit: Late-enabling -Xcheck:jni
+2023-07-22 16:44:31.047 6553-6646/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"Setting current unity activity name as RushGameUnityActivity from source: getRushUnityActivityIntent","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024471046,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024471}
+2023-07-22 16:44:31.050 6553-10392/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :72979bytes
+2023-07-22 16:44:31.053 6553-10392/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :73637bytes
+2023-07-22 16:44:31.058 6553-10392/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :74311bytes
+2023-07-22 16:44:31.062 6553-10392/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :74912bytes
+2023-07-22 16:44:31.068 27477-27477/? D/BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+2023-07-22 16:44:31.070 27477-27477/? D/BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+2023-07-22 16:44:31.089 10775-10775/? I/uma.debug:Unit: Unquickening 24 vdex files!
+2023-07-22 16:44:31.224 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: message received msg=2, ext1=0, ext2=0
+2023-07-22 16:44:31.224 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: playback complete
+2023-07-22 16:44:31.224 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: callback application
+2023-07-22 16:44:31.224 6553-6898/com.hike.mazuma.debug V/PlayerBase: baseStop() piid=1751
+2023-07-22 16:44:31.225 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: back from callback
+2023-07-22 16:44:31.225 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: message received msg=211, ext1=0, ext2=0
+2023-07-22 16:44:31.225 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: unrecognized message: (211, 0, 0)
+2023-07-22 16:44:31.225 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: callback application
+2023-07-22 16:44:31.225 6553-6572/com.hike.mazuma.debug V/MediaPlayerNative: back from callback
+2023-07-22 16:44:31.247 6333-6333/? D/BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.presencemanager.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+2023-07-22 16:44:31.247 6333-6333/? D/BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.presencemanager.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+2023-07-22 16:44:31.257 6333-6333/? D/BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.presencemanager.service.INTERNAL_IDENTITY dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+2023-07-22 16:44:31.257 6333-6333/? D/BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.presencemanager.service.INTERNAL_IDENTITY dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+2023-07-22 16:44:31.297 10775-10775/com.hike.mazuma.debug I/uma.debug:Unit: The ClassLoaderContext is a special shared library.
+2023-07-22 16:44:32.868 10775-10775/com.hike.mazuma.debug D/NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: true
+2023-07-22 16:44:32.874 10775-10775/com.hike.mazuma.debug D/NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: true
+2023-07-22 16:44:32.912 10775-10775/com.hike.mazuma.debug D/AppSealing: [JAVA] AppSealingLoader ...........................................
+2023-07-22 16:44:32.918 10775-10775/com.hike.mazuma.debug I/AppSealing: BUILD VERSION : 2.29.4.0.c
+2023-07-22 16:44:32.918 10775-10775/com.hike.mazuma.debug I/AppSealing:       DATE    : May 24 2023 05:56:05
+2023-07-22 16:44:32.971 10775-10775/com.hike.mazuma.debug I/AppSealing: ASBA:0xc0587000
+2023-07-22 16:44:33.100 6553-10388/com.hike.mazuma.debug I/FA: Application backgrounded at: timestamp_millis: 1690024471093
+2023-07-22 16:44:33.191 10775-10775/com.hike.mazuma.debug I/AppSealing: Initiate AppSealing Security : ARM (Core Version = C220605-002)
+2023-07-22 16:44:33.365 10775-10807/com.hike.mazuma.debug I/:  
+2023-07-22 16:44:33.393 10775-10775/com.hike.mazuma.debug W/uma.debug:Unit: Accessing hidden field Ldalvik/system/BaseDexClassLoader;->pathList:Ldalvik/system/DexPathList; (greylist, JNI, allowed)
+2023-07-22 16:44:33.394 10775-10775/com.hike.mazuma.debug W/uma.debug:Unit: Accessing hidden field Ldalvik/system/DexPathList;->dexElements:[Ldalvik/system/DexPathList$Element; (greylist, JNI, allowed)
+2023-07-22 16:44:33.465 10775-10775/com.hike.mazuma.debug W/Thread-3: type=1400 audit(0.0:313387): avc: denied { read } for name="module" dev="sysfs" ino=13388 scontext=u:r:untrusted_app:s0:c222,c256,c512,c768 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0 app=com.hike.mazuma.debug
+2023-07-22 16:44:33.473 10775-10775/com.hike.mazuma.debug W/Thread-3: type=1400 audit(0.0:313388): avc: denied { read } for name="modules" dev="proc" ino=4026532165 scontext=u:r:untrusted_app:s0:c222,c256,c512,c768 tcontext=u:object_r:proc_modules:s0 tclass=file permissive=0 app=com.hike.mazuma.debug
+2023-07-22 16:44:34.073 10775-10775/com.hike.mazuma.debug D/TAG: com.hike.mazuma.debug:Unity
+2023-07-22 16:44:34.181 10775-10775/com.hike.mazuma.debug D/HikeApplication: HikeApplication onCreate called for process: com.hike.mazuma:Unity
+2023-07-22 16:44:34.395 6553-6567/com.hike.mazuma.debug I/ke.mazuma.debu: Background young concurrent copying GC freed 30141(1485KB) AllocSpace objects, 20(788KB) LOS objects, 1% free, 120MB/122MB, paused 224us total 572.395ms
+2023-07-22 16:44:34.466 10775-10775/com.hike.mazuma.debug I/TetheringManager: registerTetheringEventCallback:com.hike.mazuma.debug
+2023-07-22 16:44:34.602 10775-10840/com.hike.mazuma.debug D/libMEOW: meow reload base cfg path: na
+2023-07-22 16:44:34.603 10775-10840/com.hike.mazuma.debug D/libMEOW: meow reload overlay cfg path: na
+2023-07-22 16:44:34.637 10775-10836/com.hike.mazuma.debug I/FirebaseApp: Device unlocked: initializing all Firebase APIs for app [DEFAULT]
+2023-07-22 16:44:34.655 10775-10840/com.hike.mazuma.debug D/libMEOW: applied 1 plugins for [com.hike.mazuma.debug:Unity]:
+2023-07-22 16:44:34.655 10775-10840/com.hike.mazuma.debug D/libMEOW:   plugin 1: [libMEOW_gift.so]:
+2023-07-22 16:44:34.727 10775-10848/com.hike.mazuma.debug D/TransportRuntime.JobInfoScheduler: Upload for context TransportContext(cct, DEFAULT, MSRodHRwczovL2ZpcmViYXNlbG9nZ2luZy1wYS5nb29nbGVhcGlzLmNvbS92MS9maXJlbG9nL2xlZ2FjeS9iYXRjaGxvZ1xBSXphU3lDY2traUg4aTJaQVJ3T3MxTEV6RktsZDE1YU9HOG96S28=) is already scheduled. Returning...
+2023-07-22 16:44:34.734 10775-10836/com.hike.mazuma.debug I/FirebaseCrashlytics: Initializing Firebase Crashlytics 18.2.6 for com.hike.mazuma.debug
+2023-07-22 16:44:34.793 10775-10775/com.hike.mazuma.debug D/AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2023-07-22 16:44:34.833 10775-10854/com.hike.mazuma.debug I/DynamiteModule: Considering local module com.google.android.gms.measurement.dynamite:55 and remote module com.google.android.gms.measurement.dynamite:93
+2023-07-22 16:44:34.834 10775-10854/com.hike.mazuma.debug I/DynamiteModule: Selected remote version of com.google.android.gms.measurement.dynamite, version >= 93
+2023-07-22 16:44:34.835 10775-10854/com.hike.mazuma.debug V/DynamiteModule: Dynamite loader version >= 2, using loadModule2NoCrashUtils
+2023-07-22 16:44:34.857 10775-10854/com.hike.mazuma.debug W/System: ClassLoader referenced unknown path: 
+2023-07-22 16:44:34.933 10775-10858/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:34.933 10775-10858/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:34.961 10775-10863/com.hike.mazuma.debug D/NetworkStateManager: Network capabilites changed [ Transports: WIFI Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&VALIDATED&NOT_ROAMING&FOREGROUND&NOT_CONGESTED&NOT_SUSPENDED LinkUpBandwidth>=49000Kbps LinkDnBandwidth>=49000Kbps SignalStrength: -34 AdministratorUids: [] RequestorUid: -1 RequestorPackageName: null]
+2023-07-22 16:44:34.962 10775-10855/com.hike.mazuma.debug D/libcrashlytics: Initializing libcrashlytics version 3.2.0
+2023-07-22 16:44:34.969 10775-10858/com.hike.mazuma.debug D/AppLog: storage:41217664-9172-527a-b3d5-edabb50a7d69 : Internal storage : mounted
+2023-07-22 16:44:34.972 10775-10855/com.hike.mazuma.debug D/libcrashlytics: Initializing native crash handling successful.
+2023-07-22 16:44:35.259 10775-10864/com.hike.mazuma.debug I/FA: App measurement initialized, version: 80006
+2023-07-22 16:44:35.259 10775-10864/com.hike.mazuma.debug I/FA: To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+2023-07-22 16:44:35.261 10775-10864/com.hike.mazuma.debug I/FA: To enable faster debug mode event logging run:
+      adb shell setprop debug.firebase.analytics.app com.hike.mazuma.debug
+2023-07-22 16:44:35.312 10775-10775/com.hike.mazuma.debug I/IL2CPP: JNI_OnLoad
+2023-07-22 16:44:35.537 10775-10858/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"Unity onCreate called","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"cf672dee-5c65-4780-9e82-051a2cd149a9","cts":1690024474934,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024475}
+2023-07-22 16:44:35.540 10775-10868/com.hike.mazuma.debug D/RushAnalytics: Delete the old files!
+2023-07-22 16:44:35.541 10775-10868/com.hike.mazuma.debug D/RushAnalytics: Storage dir: /data/user/0/com.hike.mazuma.debug/files/Analytics
+2023-07-22 16:44:35.541 10775-10868/com.hike.mazuma.debug D/RushAnalytics: RT Storage dir: /data/user/0/com.hike.mazuma.debug/files/AnalyticsRT
+2023-07-22 16:44:35.542 10775-10868/com.hike.mazuma.debug D/RushAnalytics: File max size: 200 KBs
+2023-07-22 16:44:35.542 10775-10868/com.hike.mazuma.debug D/RushAnalytics: Total analytics size: 1000 KBs
+2023-07-22 16:44:35.542 10775-10868/com.hike.mazuma.debug D/RushAnalytics: Max events in memory before they get dumped to file: 15
+2023-07-22 16:44:35.544 10775-10868/com.hike.mazuma.debug D/RushAnalytics: Next alarm day: 22
+2023-07-22 16:44:35.544 10775-10868/com.hike.mazuma.debug D/RushAnalytics: Next alarm time(hour:minute): 22:23
+2023-07-22 16:44:35.544 10775-10868/com.hike.mazuma.debug D/RushAnalytics: Send frequency :30 mins
+2023-07-22 16:44:35.544 10775-10868/com.hike.mazuma.debug D/RushAnalytics: RT Send frequency :1 mins
+2023-07-22 16:44:35.547 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :0bytes
+2023-07-22 16:44:35.676 10775-10775/com.hike.mazuma.debug W/uma.debug:Unit: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+2023-07-22 16:44:35.895 10775-10775/com.hike.mazuma.debug W/uma.debug:Unit: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+2023-07-22 16:44:35.934 10775-10775/com.hike.mazuma.debug D/AccountManager: unityProcessSyncDataFromMainProcess with contactInfo ContactInfo(appUnderMaintainenceConfig=AppUnderMaintainenceConfig(show=false, title=Hey! We never met :) 
+    Let's spend sometime together until our devs get things back
+    Btw, don't worry your money is safe!, message=Your money is safe with us
+    You will be able to resume playing soon, langData=LangDataAppMaintenance(hindi=AppUnderMaintainenceConfig(show=null, title=हम थोड़ी देर के लिए मेंटेनेंस पर हैं, message=आपका पैसा हमारे पास सुरक्षित है
+    आप जल्द ही खेलना फिर से शुरू कर सकते है, langData=null))), vipMembershipExpiryTs=null, avatarUrl=https://storage.googleapis.com/selfie-avatar/rush/stag/3d/avatars/YOU5dzukYGdrl0fE/12307eeb-c7f0-4540-b1b8-7183b1fd0fff.png, fullbodyAvatarUrl=https://storage.googleapis.com/selfie-avatar/rush/stag/3d/fb_avatars/YOU5dzukYGdrl0fE/06f95581-344c-4620-9d54-16954fcf41be.png, userStats=UserStats(totalGamesPlayed=59, totalGamesWon=34, lifetimeWinnings=128.4, bestGtRank=0), avatarGender=male, genderVerified=false, bonusAvailable=false, bonusId=null, token=JYUHJ4z5KXEH5ILu=, uid=YOU5dzukYGdrl0fE, success=true, bonusAmount=0.0, name=ManoharLalas, stateCode=MH, bonusType=null, proUser=false, cashUser=true, currentReward=null, vipNudges=VipNudgesInfo(type=NEVER_VIP, daysLeft=0, saved=VipSavedInfo(total=0.0, platformFee=0.0, extraWin=0.0, bonus=0.0), potentialSaved=NonVipPotentialSavedInfo(total=5.0), bannerUrl=https://storage.googleapis.com/vibe-3d-hikemoji/prod/banners/VIP.png, source=null), enable3DAvatarFlow=true, nftAvatarStatus=CLAIMED, nftPurchaseText=Earn  Upto ₹150 per month, kycVerified=false, nftSuperpowerEnabled=true, nftPurchased=true, maxPossibleWinnings=35.0, animateKycBadge=null, stateName=Maharashtra, restrictedStates=[MG, TN, AD, AS, NL, OD, SK, TS], profanityPopUpCount=2)  & user info UserWalletInfo(wallet=Wallet(metadata=com.hike.mazuma.ui.homeactivity.pojos.Metadata@7071f1b, name=+919452995292, walletMoneyList=[WalletMoneyListItem(amount=0.0, conversionFactor=1.0, fundsCategory=DEPOSIT, currency=INR, displayCurrency=INR), WalletMoneyListItem(amount=25.8, conversionFactor=1.0, fundsCategory=WINNING, currency=INR, displayCurrency=INR), WalletMoneyListItem(amount=10.95, conversionFactor=1.0, fundsCategory=BONUS, currency=INR, displayCurrency=INR)], walletLimits=WalletLimits(consumedMonthlyDebit=29.9, monthlyDebitLimit=1.0E8, consumedMonthlyCredit=39.85, monthlyCreditLimit=1.0E8)), status=SUCCESS, disableWithdrawal=false, withdrawalDisabledReason=null)
+2023-07-22 16:44:36.020 10775-10858/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:36.020 10775-10858/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:36.023 10775-10858/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"gameId in Unity onCreate: ludo","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024476020,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024476}
+2023-07-22 16:44:36.025 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :566bytes
+2023-07-22 16:44:36.026 10775-10775/com.hike.mazuma.debug D/FirebaseAnalyticsManager: logging firebase Event ludo_PreLoad_Event with bundle { tableId=gt:table1678871131835, }
+2023-07-22 16:44:36.028 10775-10858/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:36.028 10775-10858/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:36.029 10775-10864/com.hike.mazuma.debug I/FA: Tag Manager is not found and thus will not be used
+2023-07-22 16:44:36.031 10775-10858/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"selecting fullscreen unity container","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024476029,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024476}
+2023-07-22 16:44:36.032 10775-10775/com.hike.mazuma.debug W/Settings: Setting development_settings_enabled has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+2023-07-22 16:44:36.034 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :1149bytes
+2023-07-22 16:44:36.040 10775-10775/com.hike.mazuma.debug D/RushUnityManager: sendDataToUnity START
+2023-07-22 16:44:36.040 10775-10775/com.hike.mazuma.debug D/RushUnityManager: sendDataToUnity END with data {"type":1,"data":{"appSettings":{"isDebug":true,"runAutomationTests":false,"isStaging":true,"bottomMargin":0,"topMargin":0,"isDeveloperOptionsEnabled":true}}}
+2023-07-22 16:44:36.089 10775-10871/com.hike.mazuma.debug D/HikemojiDownloadManager:  3DMaleAvatarServerComponentList.json file null or doesn't exist
+2023-07-22 16:44:36.089 10775-10871/com.hike.mazuma.debug D/HikeMojiUtils: 3DMaleAvatarServerComponentList.json file is invalid
+2023-07-22 16:44:36.128 10775-10775/com.hike.mazuma.debug D/RushUnityManager: sendDataToUnity START
+2023-07-22 16:44:36.129 10775-10775/com.hike.mazuma.debug D/RushUnityManager: sendDataToUnity END with data {"type":2,"data":{"contextType":1,"contextualData":{"analyticsInfo":{"funnelId":"f64f8d59-af53-4ec9-9de4-6cf82f3c94c5","sourceScreen":"rush_homescreen"},"gameInfo":{"gameIconUrl":"","gameId":"ludo","gameName":"Speed Leedo","gameType":"Tournament","host":"sfs-stag-04.hike.in","httpsPort":443,"matchmakingTimeout":45,"playerCount":2,"port":993,"showFtue":true,"startTimestamp":"22\/07\/2023 16:44:34.829","use3DHikemoji":false,"useEncryption":true,"zoneName":"RushLudoZoneV3_65","backButtonDelay":6000,"pingThreshold":20,"gameMeta":"{\"weakNetworkPopupThreshold2\":0.12,\"weakNetworkPopupThreshold1\":0.1,\"tableUIVersion\":\"v2\",\"ledl_load_async\":true,\"pingQueueSize\":3,\"timeIgnoreBGResync\":20,\"conditional_engine_exit\":true,\"mmDcTime\":60,\"ledl_ram_limit\":2048,\"checkDevOptions\":true,\"pingFrequency\":2,\"reconnectionLagThreshold\":4,\"rematchMatchmakingTimer\":15,\"max_analytics_data_len\":1000,\"rematchAcceptBufferTime\":6000,\"ping_status_code\":204,\"rejoinMM\":true,\"ping_url\":\"https:\\\/\\\/clients3.google.com\\\/generate_204\",\"miniProfileFtueCounter\":2,\"isLeaderBoardLive\":2,\"pbDiceTime\":0.3,\"backTraceANRTimeOut\":60,\"gameTag\":\"Grand Tournament\"}"},"tableInfo":{"bonusLimit":0,"entriesUsed":1,"isFreeTable":false,"isTournamentTable":true,"poolAmount":7,"practiceTable":false,"rakeAmount":0,"tableId":"gt:table1678871131835","tournamentId":"ZLrJF2-ggE0ihTws","winningAmounts":[7],"tableMeta":"{\"showLudo55FTUE\":true,\"tutorialOrder\":\"[\\\"Ludo55\\\", \\\"BonusTimer\\\"]\",\"respinsEnabled\":true,\"isMatchPrizeWinningEnabled\":true,\"playerCount\":2,\"isLudo55\":true,\"logStanEnable\":true,\"ludoPiggybackDiceRollVersion\":3,\"autoStartDelay\":7,\"minPlayerCount\":1,\"bonusTimeInMillis\":60000,\"piggybackDice\":true,\"mmType\":\"NEW_MM\",\"turnTimeSec\":7,\"showBreakUpInfo\":false,\"delayTime\":0,\"maxRespins\":90,\"autoPlay\":true,\"pawnCutScoreTransfer\":true,\"gameMovesRem\":4,\"pawnReachHomeMultipliers\":[2,3,2,3]}"},"userInfo":{"addedCash":true,"avatarGender":"male","bestGTRank":0,"com":"SllVSEo0ejVLWEVINUlMdT0=","isPro":false,"kycVerified":false,"name":"ManoharLalas","profilePic":"https:\/\/storage.googleapis.com\/selfie-avatar\/rush\/stag\/3d\/avatars\/YOU5dzukYGdrl0fE\/12307eeb-c7f0-4540-b1b8-7183b1fd0fff.png","stateName":"","totalGamesPlayed":0,"userId":"YOU5dzukYGdrl0fE","walletAmount":36.75}}}}
+2023-07-22 16:44:36.148 10775-10775/com.hike.mazuma.debug I/Unity: onResume
+2023-07-22 16:44:36.214 10775-10775/com.hike.mazuma.debug D/Unity: onActivityResumed: com.hike.mazuma.unity.activities.RushGameUnityActivity@ee350d5
+2023-07-22 16:44:36.220 10775-10775/com.hike.mazuma.debug D/PerfLogger: PERF feature unity_launch flow rush_unityReadyTime has latency 2035
+2023-07-22 16:44:36.293 10775-10775/com.hike.mazuma.debug D/libMEOW: applied 1 plugins for [com.hike.mazuma.debug:Unity]:
+2023-07-22 16:44:36.293 10775-10775/com.hike.mazuma.debug D/libMEOW:   plugin 1: [libMEOW_gift.so]:
+2023-07-22 16:44:36.295 10775-10775/com.hike.mazuma.debug I/InputTransport: Create ARC handle: 0xf51bf900
+2023-07-22 16:44:36.317 10775-10775/com.hike.mazuma.debug I/Choreographer: Skipped 32 frames!  The application may be doing too much work on its main thread.
+2023-07-22 16:44:36.403 10775-10837/com.hike.mazuma.debug D/libMEOW: applied 1 plugins for [com.hike.mazuma.debug:Unity]:
+2023-07-22 16:44:36.404 10775-10837/com.hike.mazuma.debug D/libMEOW:   plugin 1: [libMEOW_gift.so]:
+2023-07-22 16:44:36.425 10775-10866/com.hike.mazuma.debug D/Unity: SetWindow 0 0xd4bf1808
+    
+    --------- beginning of system
+2023-07-22 16:44:36.431 1297-3655/? D/BatteryStatsService: notePemString  noteWhich: 49,arg1: 720, arg2: 1460, arg3: 10775, arg4: 2, name: com.hike.mazuma.debug
+2023-07-22 16:44:36.432 10775-10866/com.hike.mazuma.debug D/Unity: SetWindow 0 0xd4bf1808
+2023-07-22 16:44:36.453 10775-10837/com.hike.mazuma.debug I/libMEOW_gift: ctx:0xf11de340, ARC not Enabled.
+2023-07-22 16:44:36.497 10775-10837/com.hike.mazuma.debug E/ion: ioctl c0044901 failed with code -1: Invalid argument
+2023-07-22 16:44:36.504 1297-2062/? D/BatteryStatsService: notePemString  noteWhich: 49,arg1: 720, arg2: 1460, arg3: 10775, arg4: 2, name: com.hike.mazuma.debug
+2023-07-22 16:44:36.510 10775-10871/com.hike.mazuma.debug D/HikeMojiUtils: componentDataSp json = {"category_order":{"Body":["face","eyes","eyebrows","nose","lips","ear"],"Style":["Hair","Beard","Moustache","Top","Bottom","Foot","Accessories","Eyewear","Headgear"]},"subcategory_order":{"face":["face_shape","chin_shape","color"],"eyes":["eyes_shape","color"],"eyebrows":["eyebrow_shape","color"],"nose":["nose_shape"],"lips":["lips_shape","color"],"ear":["ear_shape"],"Hair":["Hair","color"],"Beard":["Beard","color"],"Moustache":["Moustache","color"],"Top":["TopInnerWear","TopOuterWear"],"Bottom":["BottomOuterWear"],"Foot":["Foot"],"Accessories":["Earring"],"Eyewear":["Eyewear"],"Headgear":["Headgear"]},"create_flow_data":{"Body":{"face":{"face_shape":{"name":"FACE","components":["MaleFaceShapeChubbyRect","MaleFaceShapeDiamond","MaleFaceShapeDiamondLong","MaleFaceShapeOval","MaleFaceShapeThinRect","MaleFaceShapeThinRect2","MaleFaceShapeTriangle1","MaleFaceShapeTriangle2","MaleFaceShapeTriangleLong","MaleFaceShapeOblong","MaleFaceShapeRound"]},"chin_shape":{"name":"CHIN","components":["ResetChin","Chin1","Chin2"]},"color":{"name":"COLOR","colors":[{"gradient":["e5aa85","402f25"],"base":"7d5c48"},{"gradient":["e59e8c","402c27"],"base":"745047"},{"gradient":["e5a67e","402e23"],"base":"624736"},{"gradient":["ffeeda","4d453d"],"base":"f1dbc1"},{"gradient":["ffcba8","4d3d32"],"base":"cfa589"},{"gradient":["ffc89e","4d3c2f"],"base":"cea280"},{"gradient":["ffdec4","4d433b"],"base":"e5c7b0"},{"gradient":["ffe9d5","4d443c"],"base":"f0d4bb"},{"gradient":["ffd5b8","4d4037"],"base":"dfbba1"},{"gradient":["ffd4bd","4d4039"],"base":"e6bfaa"},{"gradient":["ffb996","4d382d"],"base":"dfa284"},{"gradient":["ffeee0","4d4540"],"base":"f9e2cf"},{"gradient":["ffdec9","4d4039"],"base":"e9c3ac"}],"material_data":{"material_name":"Body","mesh_type":"Basebody","materials":{"BaseBody_BodyMesh_Basic_01_Main":["BaseBody_BodyMesh_Basic_01_Hands_Mat","BaseBody_BodyMesh_Basic_01_Face_Mat","BaseBody_BodyMesh_Basic_01_Torso_Mat","BaseBody_BodyMesh_Basic_01_Legs_Mat"]}},"default":"#FDA07F"}},"eyes":{"eyes_shape":{"name":"EYES","components":["MaleEyesAlmond2_Open","MaleEyesAlmond_Open","MaleEyesDeepSet_Open","MaleEyesDownturned_Open","MaleEyesFlatLow_Open","MaleEyesFlatTurnedUp_Open","MaleEyesHooded2_Open","MaleEyesHooded_Open","MaleEyesMaleNormal3_Open","MaleEyesMonolids_Open","MaleEyesNormal_Open","MaleEyesRaised_Open","MaleEyesRound_Open","MaleEyesSmallEye2_Open","MaleEyesTurnedTips_Open","MaleEyesFarSet_Open","MaleEyesFlat_Open"]},"color":{"name":"COLOR","colors":[{"gradient":["faa806","4c3302"],"base":"c18205"},{"gradient":["3adb62","08200e"],"base":"1a622c"},{"gradient":["2894f6","092035"],"base":"185892"},{"gradient":["f5f3e1","42423d"],"base":"939287"},{"gradient":["f87c00","351a00"],"base":"964b00"},{"gradient":["ffff99","4d4d2e"],"base":"b5ae6e"},{"gradient":["a7ffc6","2b4132"],"base":"6ca580"},{"gradient":["93caff","28435d"],"base":"5b97d1"},{"gradient":["e4e4e4","2d2d2d"],"base":"676767"},{"gradient":["dfc0ff","5b4e68"],"base":"9966cc"},{"gradient":["5899ff","274370"],"base":"0f52ba"},{"gradient":["7efaff","274d4f"],"base":"00c5cd"}],"material_data":{"material_name":"Eyes","mesh_type":"Eyeball","materials":{"BaseBody_EyeBall_Opaque_01_Left":["BaseBody_EyeBall_Opaque_01_Iris_Mat"]}},"default":"#2A070B"}},"eyebrows":{"eyebrow_shape":{"name":"EYEBROW","components":["Head_Eyebrow_ThickThickMid_01_Main_Gry_01","Head_Eyebrow_MediumSoftAngled_01_Main_Gry_01","Head_Eyebrow_MediumHardAngled_01_Main_Gry_01","Head_Eyebrow_ThinStraight_Main_01_Main_Gry_01","Head_Eyebrow_ThickStoutThick_01_Main_Gry_01","Head_Eyebrow_MediumThickMid_01_Main_Gry_01","Head_Eyebrow_MediumSoftCurved_01_Main_Gry_01","Head_Eyebrow_ThickThickCurvedEnds_01_Main_Gry_01","Head_Eyebrow_ThickRaised2_01_Main_Gry_01","Head_Eyebrow_ThickThickStraight_01_Main_Gry_01","Head_Eyebrow_ThinSShaped_01_Main_Gry_01","Head_Eyebrow_ThickThickFlat_01_Main_Gry_01","Head_Eyebrow_ThinFlatCurved_01_Main_Gry_01","Head_Eyebrow_UnibrowThickUnibrowRaised_01_Main_Gry_01","Head_Eyebrow_ThickThickAlternating_01_Main_Gry_01","Head_Eyebrow_ThinLight_
+2023-07-22 16:44:36.513 10775-10871/com.hike.mazuma.debug D/HikemojiDownloadManager:  3DFemaleAvatarServerComponentList.json file null or doesn't exist
+2023-07-22 16:44:36.513 10775-10871/com.hike.mazuma.debug D/HikeMojiUtils: 3DFemaleAvatarServerComponentList.json file is invalid
+2023-07-22 16:44:36.553 10775-10837/com.hike.mazuma.debug I/OpenGLRenderer: Davey! duration=764ms; Flags=1, IntendedVsync=200229660731187, Vsync=200230194064531, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=200230202751780, AnimationStart=200230202766780, PerformTraversalsStart=200230202915857, DrawStart=200230365574780, SyncQueued=200230372069549, SyncStart=200230384729011, IssueDrawCommandsStart=200230385809934, SwapBuffers=200230434851087, FrameCompleted=200230437932011, DequeueBufferDuration=0, QueueBufferDuration=2155000, GpuCompleted=0, 
+2023-07-22 16:44:36.622 1297-1333/? I/ActivityTaskManager: Displayed com.hike.mazuma.debug/com.hike.mazuma.unity.activities.RushGameUnityActivity: +5s652ms
+2023-07-22 16:44:36.741 10775-10790/com.hike.mazuma.debug I/uma.debug:Unit: Background concurrent copying GC freed 52678(1652KB) AllocSpace objects, 11(4004KB) LOS objects, 12% free, 14MB/16MB, paused 236us total 253.860ms
+2023-07-22 16:44:36.744 10775-10871/com.hike.mazuma.debug D/HikeMojiUtils: componentDataSp json = {"category_order":{"Body":["face","eyes","eyebrows","nose","lips","ear"],"Style":["Hair","Top","Bottom","Foot","Makeup","Eyeshadow","Accessories","Eyewear"]},"subcategory_order":{"face":["face_shape","chin_shape","color"],"eyes":["eyes_shape","color"],"eyebrows":["eyebrow_shape","color"],"nose":["nose_shape"],"lips":["lips_shape","color"],"ear":["ear_shape"],"Hair":["Hair","color"],"Top":["TopInnerWear","TopOuterWear"],"Bottom":["BottomOuterWear"],"Foot":["Foot"],"Makeup":["Eyelash"],"Eyeshadow":["Eyeshadow","color"],"Accessories":["Nosepin","Earring"],"Eyewear":["Eyewear"]},"create_flow_data":{"Body":{"face":{"face_shape":{"name":"FACE","components":["FemaleFaceShapesDiamond","FemaleFaceShapesDiamond2Smooth","FemaleFaceShapesDiamondLong","FemaleFaceShapesDiamondLong2Smooth","FemaleFaceShapesDiamondLongSmooth","FemaleFaceShapesDiamondSmooth","FemaleFaceShapesOblong","FemaleFaceShapesOval","FemaleFaceShapesRectangle2","FemaleFaceShapesRound","FemaleFaceShapesSoftRectangle","FemaleFaceShapesTriangle","FemaleFaceShapesTriangle2","FemaleFaceShapesTriangleSmooth","FemaleFaceShapesOval2","FemaleFaceShapesRectangle2Smooth","FemaleFaceShapesSoftTriangle"]},"chin_shape":{"name":"CHIN","components":["ResetChin","Chin1","Chin2"]},"color":{"name":"COLOR","colors":[{"gradient":["e5aa85","402f25"],"base":"7d5c48"},{"gradient":["e59e8c","402c27"],"base":"745047"},{"gradient":["e5a67e","402e23"],"base":"624736"},{"gradient":["ffeeda","4d453d"],"base":"f1dbc1"},{"gradient":["ffcba8","4d3d32"],"base":"cfa589"},{"gradient":["ffc89e","4d3c2f"],"base":"cea280"},{"gradient":["ffdec4","4d433b"],"base":"e5c7b0"},{"gradient":["ffe9d5","4d443c"],"base":"f0d4bb"},{"gradient":["ffd5b8","4d4037"],"base":"dfbba1"},{"gradient":["ffd4bd","4d4039"],"base":"e6bfaa"},{"gradient":["ffb996","4d382d"],"base":"dfa284"},{"gradient":["ffeee0","4d4540"],"base":"f9e2cf"},{"gradient":["ffdec9","4d4039"],"base":"e9c3ac"}],"material_data":{"material_name":"Body","mesh_type":"Basebody","materials":{"BaseBody_BodyMesh_Basic_01_Main":["BaseBody_BodyMesh_Basic_01_Hands_Mat","BaseBody_BodyMesh_Basic_01_Face_Mat","BaseBody_BodyMesh_Basic_01_Torso_Mat","BaseBody_BodyMesh_Basic_01_Legs_Mat"]}},"default":"#FDA07F"}},"eyes":{"eyes_shape":{"name":"EYES","components":["FemaleEyes01_Open","FemaleEyes04_Open","FemaleEyes05_Open","FemaleEyes07_Open","FemaleEyes08_Open","FemaleEyes09_Open","FemaleEyesFlatEyes2_Open","FemaleEyesFlatLined_Open","FemaleEyesHooded_Open","FemaleEyesMonolids_Open","FemaleEyesNormal2_Open","FemaleEyesNormal_Open","FemaleEyesSleepy2_Open","FemaleEyesTinyEyes2_Open","FemaleEyesUpwardEyes2_Open","FemaleEyesWideEyes_Open","FemaleEyesWideOpen_Open"]},"color":{"name":"COLOR","colors":[{"gradient":["faa806","4c3302"],"base":"c18205"},{"gradient":["3adb62","08200e"],"base":"1a622c"},{"gradient":["2894f6","092035"],"base":"185892"},{"gradient":["f5f3e1","42423d"],"base":"939287"},{"gradient":["f87c00","351a00"],"base":"964b00"},{"gradient":["ffff99","4d4d2e"],"base":"b5ae6e"},{"gradient":["a7ffc6","2b4132"],"base":"6ca580"},{"gradient":["93caff","28435d"],"base":"5b97d1"},{"gradient":["e4e4e4","2d2d2d"],"base":"676767"},{"gradient":["dfc0ff","5b4e68"],"base":"9966cc"},{"gradient":["5899ff","274370"],"base":"0f52ba"},{"gradient":["7efaff","274d4f"],"base":"00c5cd"}],"material_data":{"material_name":"Eyes","mesh_type":"Eyeball","materials":{"BaseBody_EyeBall_Opaque_01_Left":["BaseBody_EyeBall_Opaque_01_Iris_Mat"]}},"default":"#2A070B"}},"eyebrows":{"eyebrow_shape":{"name":"EYEBROW","components":["Head_Eyebrow_ThickCurve_01_Main_Gry_01","Head_Eyebrow_ThinSharpAngled_01_Main_Gry_01","Head_Eyebrow_ThickMidThick_01_Main_Gry_01","Head_Eyebrow_MediumSoftAngled_01_Main_Gry_01","Head_Eyebrow_MediumHardAngled_01_Main_Gry_01","Head_Eyebrow_ThinThin2_01_Main_Gry_01","Head_Eyebrow_ThickHardAngledRaised_01_Main_Gry_01","Head_Eyebrow_ThinSShaped_01_Main_Gry_01","Head_Eyebrow_ThinRaisedHigh_01_Main_Gry_01","Head_Eyebrow_ThinThin_01_Main_Gry_01","Head_Eyebrow_ThickFlatThick_01_Main_Gry_01","Head_Eyebrow_UnibrowUnibr
+2023-07-22 16:44:36.797 10775-10775/com.hike.mazuma.debug I/Unity: windowFocusChanged: true
+2023-07-22 16:44:36.859 18158-18158/? I/InputTransport: Create ARC handle: 0xb400007ba510ca40
+2023-07-22 16:44:36.918 10775-10866/com.hike.mazuma.debug I/Unity: MemoryManager: Using 'Dynamic Heap' Allocator.
+2023-07-22 16:44:36.931 18158-18158/? I/GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3303 
+2023-07-22 16:44:36.939 18158-18158/? I/GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2122 repeatCheckTimes = 0, locked = false
+2023-07-22 16:44:36.946 18158-18158/? I/GoogleInputMethodService: GoogleInputMethodService.onStartInput():1902 onStartInput(EditorInfo{EditorInfo{packageName=com.hike.mazuma.debug, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+2023-07-22 16:44:36.947 10775-10866/com.hike.mazuma.debug E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2023-07-22 16:44:36.950 18158-18158/? I/GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():1985 ShouldHideHeaderOnInitialState = false
+2023-07-22 16:44:36.954 18158-18158/? I/GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2122 repeatCheckTimes = 1, locked = false
+2023-07-22 16:44:36.968 6553-6553/com.hike.mazuma.debug D/FirebasePerformance: Setting metric '_fr_tot' to '193' on trace '_st_HomeActivity'
+2023-07-22 16:44:36.969 6553-6553/com.hike.mazuma.debug D/FirebasePerformance: Setting metric '_fr_slo' to '94' on trace '_st_HomeActivity'
+2023-07-22 16:44:36.970 6553-6553/com.hike.mazuma.debug D/FirebasePerformance: Setting metric '_fr_fzn' to '2' on trace '_st_HomeActivity'
+2023-07-22 16:44:36.970 6553-6553/com.hike.mazuma.debug D/FirebasePerformance: sendScreenTrace name:_st_HomeActivity _fr_tot:193 _fr_slo:94 _fr_fzn:2
+2023-07-22 16:44:36.973 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: 'true' for key: 'fpr_enabled' from Firebase Remote Config.
+2023-07-22 16:44:36.973 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: '' for key: 'fpr_disabled_android_versions' from Firebase Remote Config.
+2023-07-22 16:44:36.976 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: 'true' for key: 'fpr_enabled' from Firebase Remote Config.
+2023-07-22 16:44:36.978 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: '' for key: 'fpr_disabled_android_versions' from Firebase Remote Config.
+2023-07-22 16:44:36.979 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: '1.0' for key: 'fpr_vc_trace_sampling_rate' from Firebase Remote Config.
+2023-07-22 16:44:36.981 6553-6553/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: 'true' for key: 'fpr_enabled' from Firebase Remote Config.
+2023-07-22 16:44:36.982 6553-6553/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: '' for key: 'fpr_disabled_android_versions' from Firebase Remote Config.
+2023-07-22 16:44:36.982 10775-10866/com.hike.mazuma.debug D/Unity: Enabling Unity systrace
+2023-07-22 16:44:36.984 6553-6553/com.hike.mazuma.debug I/BranchSDK: onActivityStopped, activity = com.hike.mazuma.ui.homeactivity.HomeActivity@e79d48a
+2023-07-22 16:44:36.985 6553-10519/com.hike.mazuma.debug I/FirebasePerformance: Logging trace metric: _st_HomeActivity (duration: 21530.1530ms). In a minute, visit the Firebase console to view your data: https://console.firebase.google.com/project/mazuma-android-firebase/performance/app/android:com.hike.mazuma.debug/metrics/trace/SCREEN_TRACE/_st_HomeActivity?utm_source=perf-android-sdk&utm_medium=android-ide
+2023-07-22 16:44:36.988 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: 'true' for key: 'fpr_enabled' from Firebase Remote Config.
+2023-07-22 16:44:36.991 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: '' for key: 'fpr_disabled_android_versions' from Firebase Remote Config.
+2023-07-22 16:44:36.996 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: 'true' for key: 'fpr_enabled' from Firebase Remote Config.
+2023-07-22 16:44:36.999 6553-6618/com.hike.mazuma.debug D/TransportRuntime.SQLiteEventStore: Storing event with priority=DEFAULT, name=FIREPERF for destination cct
+2023-07-22 16:44:36.999 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: '' for key: 'fpr_disabled_android_versions' from Firebase Remote Config.
+2023-07-22 16:44:37.003 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: '1.0' for key: 'fpr_vc_trace_sampling_rate' from Firebase Remote Config.
+2023-07-22 16:44:37.005 6553-6553/com.hike.mazuma.debug D/AppStateManager: onActivityStopped called with activity: com.hike.mazuma.ui.homeactivity.HomeActivity
+2023-07-22 16:44:37.006 6553-6553/com.hike.mazuma.debug D/RushAppState: moveToState called. Prev state: RESUMED, Next state: BACKGROUNDED
+2023-07-22 16:44:37.006 6553-6553/com.hike.mazuma.debug D/HikeLandAppStateListener: App wide state changed to BACKGROUNDED
+2023-07-22 16:44:37.010 6553-10519/com.hike.mazuma.debug I/FirebasePerformance: Logging trace metric: _fs (duration: 21508.6050ms). In a minute, visit the Firebase console to view your data: https://console.firebase.google.com/project/mazuma-android-firebase/performance/app/android:com.hike.mazuma.debug/metrics/trace/DURATION_TRACE/_fs?utm_source=perf-android-sdk&utm_medium=android-ide
+2023-07-22 16:44:37.015 6553-6618/com.hike.mazuma.debug D/TransportRuntime.JobInfoScheduler: Upload for context TransportContext(cct, DEFAULT, MSRodHRwczovL2ZpcmViYXNlbG9nZ2luZy1wYS5nb29nbGVhcGlzLmNvbS92MS9maXJlbG9nL2xlZ2FjeS9iYXRjaGxvZ1xBSXphU3lDY2traUg4aTJaQVJ3T3MxTEV6RktsZDE1YU9HOG96S28=) is already scheduled. Returning...
+2023-07-22 16:44:37.039 10775-10866/com.hike.mazuma.debug W/uma.debug:Unit: Accessing hidden method Ljava/lang/invoke/MethodHandles$Lookup;-><init>(Ljava/lang/Class;I)V (greylist, reflection, allowed)
+2023-07-22 16:44:37.045 1297-3655/? D/BatteryStatsService: notePemString  noteWhich: 49,arg1: -2, arg2: -1, arg3: 6553, arg4: 10350, name: com.hike.mazuma.debug
+2023-07-22 16:44:37.054 6553-6618/com.hike.mazuma.debug D/TransportRuntime.SQLiteEventStore: Storing event with priority=DEFAULT, name=FIREPERF for destination cct
+2023-07-22 16:44:37.094 6553-6618/com.hike.mazuma.debug D/TransportRuntime.JobInfoScheduler: Upload for context TransportContext(cct, DEFAULT, MSRodHRwczovL2ZpcmViYXNlbG9nZ2luZy1wYS5nb29nbGVhcGlzLmNvbS92MS9maXJlbG9nL2xlZ2FjeS9iYXRjaGxvZ1xBSXphU3lDY2traUg4aTJaQVJ3T3MxTEV6RktsZDE1YU9HOG96S28=) is already scheduled. Returning...
+2023-07-22 16:44:37.107 10775-10866/com.hike.mazuma.debug D/Unity: [VFS] Mount /data/app/~~jG06xM9Ob6X8e4e_Cj8ziQ==/com.hike.mazuma.debug-UWfz1cpxoj4MZX9g76Z4pA==/base.apk
+2023-07-22 16:44:37.115 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:37.115 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:37.117 6553-6646/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"app_infra","o":"app_exit","src":"","vs":"yes","vi":21519,"di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024477115,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024477}
+2023-07-22 16:44:37.119 6553-10392/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :75565bytes
+2023-07-22 16:44:37.133 6553-6673/com.hike.mazuma.debug I/GED: ged_boost_gpu_freq, level 100, eOrigin 2, final_idx 2, oppidx_max 2, oppidx_min 0
+2023-07-22 16:44:37.133 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:37.133 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:37.135 6553-6646/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"Inside shouldRetainUnityActivity from source home onSaveInstanceState: Returning cached value: true","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024477134,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024477}
+2023-07-22 16:44:37.136 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:37.137 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:37.140 6553-6646/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"Inside shouldRetainUnityActivity from source shouldOptimizeUnityFirstLaunch: Returning cached value: true","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024477139,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024477}
+2023-07-22 16:44:37.141 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:37.141 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:37.147 6553-6646/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"inside shouldOptimizeUnityFirstLaunch: result: true, masterFlag: true, osFlag: true, ramFlag: true, retainUnityFlag: true","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024477141,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024477}
+2023-07-22 16:44:37.150 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:37.151 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:37.152 6553-6646/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"home activity onSaveInstanceState. Setting IS_UNITY_LAUNCHED: true SHOULD_RETAIN_UNITY: true USE_TRANSPARENT_UNITY: true CURRENT_UNTIY_ACTIVITY: RushGameUnityActivity USE_UNITY_NON_TRANSPARENT: true","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024477151,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024477}
+2023-07-22 16:44:37.154 6553-10392/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :76128bytes
+2023-07-22 16:44:37.173 6553-10392/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :76780bytes
+2023-07-22 16:44:37.178 6553-10392/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :77438bytes
+2023-07-22 16:44:37.181 6553-10392/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :78112bytes
+2023-07-22 16:44:37.367 10775-10898/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:37.368 10775-10898/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:37.372 10775-10898/com.hike.mazuma.debug D/RushAnalytics: {"k":"eng_perf","uk":"eng_perf","p":"unity_launch","c":"rush_unityReadyTime","o":"HikeApplication_onCreate_unity","vs":"","vi":2035,"ser":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","dt":"vivo::vivo 1904","s":1690024477221,"ra":"default_on","d":"CASH_APP","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024477369,"av":"android-1.0.631.CDF","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024477}
+2023-07-22 16:44:37.376 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :1738bytes
+2023-07-22 16:44:37.501 10775-10866/com.hike.mazuma.debug D/Unity: Loading player data from /data/app/~~jG06xM9Ob6X8e4e_Cj8ziQ==/com.hike.mazuma.debug-UWfz1cpxoj4MZX9g76Z4pA==/base.apk/assets/bin/Data/data.unity3d
+2023-07-22 16:44:37.577 10775-10866/com.hike.mazuma.debug I/PlayCore: UID: [10222]  PID: [10775] AssetPackServiceListenerRegistry : registerListener
+2023-07-22 16:44:37.596 10775-10866/com.hike.mazuma.debug I/PlayCore: UID: [10222]  PID: [10775] AssetPackServiceImpl : getPackStates([UnityDataAssetPack])
+2023-07-22 16:44:37.599 10775-10899/com.hike.mazuma.debug I/PlayCore: UID: [10222]  PID: [10775] AssetPackServiceImpl : syncPacks
+2023-07-22 16:44:37.605 10775-10900/com.hike.mazuma.debug I/PlayCore: UID: [10222]  PID: [10775] AssetPackServiceImpl : Initiate binding to the service.
+2023-07-22 16:44:37.607 10775-10866/com.hike.mazuma.debug I/PlayCore: UID: [10222]  PID: [10775] AssetPackServiceImpl : getPackStates([UnityStreamingAssetsPack])
+2023-07-22 16:44:37.613 10775-10900/com.hike.mazuma.debug I/PlayCore: UID: [10222]  PID: [10775] AssetPackServiceImpl : Waiting to bind to the service.
+2023-07-22 16:44:37.613 10775-10900/com.hike.mazuma.debug I/PlayCore: UID: [10222]  PID: [10775] AssetPackServiceImpl : Waiting to bind to the service.
+2023-07-22 16:44:37.622 10775-10866/com.hike.mazuma.debug I/Unity: SystemInfo CPU = ARM64 FP ASIMD AES, Cores = 8, Memory = 2801mb
+2023-07-22 16:44:37.622 10775-10866/com.hike.mazuma.debug I/Unity: SystemInfo ARM big.LITTLE configuration: 4 big (mask: 0xf), 4 little (mask: 0xf0)
+2023-07-22 16:44:37.622 10775-10866/com.hike.mazuma.debug I/Unity: ApplicationInfo com.hike.mazuma.debug version 1.0.631.CDF build <unknown>
+2023-07-22 16:44:37.622 10775-10866/com.hike.mazuma.debug I/Unity: Built from '2020.3/staging' branch, Version '2020.3.25f1 (9b9180224418)', Build type 'Development', Scripting Backend 'il2cpp', CPU 'armeabi-v7a', Stripping 'Disabled'
+2023-07-22 16:44:37.634 10775-10866/com.hike.mazuma.debug D/Unity: Script Patching: Patch files are not available, '/storage/emulated/0/Android/data/com.hike.mazuma.debug/cache/ScriptOnly/2020.3.25f1/il2cpp/patch.config' is missing.
+2023-07-22 16:44:37.642 10775-10866/com.hike.mazuma.debug D/Unity: Same Unity build, not extracting il2cpp resources.
+2023-07-22 16:44:37.672 10775-10902/com.hike.mazuma.debug D/InsetsController: default animation onReady types: 2 mShow=false mHasAnimationCallbacks=false mRequestedTypes=2
+2023-07-22 16:44:37.713 1297-3677/? D/BatteryStatsService: notePemString  noteWhich: 49,arg1: 720, arg2: 1544, arg3: 10775, arg4: 2, name: com.hike.mazuma.debug
+2023-07-22 16:44:37.722 10775-10866/com.hike.mazuma.debug D/Unity: PlayerConnection initialized from /data/app/~~jG06xM9Ob6X8e4e_Cj8ziQ==/com.hike.mazuma.debug-UWfz1cpxoj4MZX9g76Z4pA==/base.apk/assets/bin/Data (debug = 0)
+2023-07-22 16:44:37.725 10775-10866/com.hike.mazuma.debug D/Unity: PlayerConnection initialized network socket : 0.0.0.0 55465
+2023-07-22 16:44:37.725 10775-10866/com.hike.mazuma.debug D/Unity: PlayerConnection initialized unix socket : Unity-com.hike.mazuma.debug
+2023-07-22 16:44:37.727 10775-10866/com.hike.mazuma.debug D/Unity: Multi-casting "[IP] 192.168.133.170 [Port] 55465 [Flags] 2 [Guid] 3138356584 [EditorId] 3019731706 [Version] 1048832 [Id] AndroidPlayer(vivo_vivo_1904@192.168.133.170) [Debug] 0 [PackageName] AndroidPlayer [ProjectName] unity-mazuma" to [225.0.0.222:54997]...
+2023-07-22 16:44:37.727 10775-10866/com.hike.mazuma.debug D/Unity: Started listening to [0.0.0.0:55465]
+2023-07-22 16:44:37.729 1297-3677/? D/BatteryStatsService: notePemString  noteWhich: 49,arg1: 720, arg2: 1544, arg3: 10775, arg4: 2, name: com.hike.mazuma.debug
+2023-07-22 16:44:37.737 10775-10775/com.hike.mazuma.debug D/ViewRootImpl[RushGameUnityActivity]: msg1 update new insets InsetsState: {mDisplayFrame=Rect(0, 0 - 720, 1544), mSources= { InsetsSource: {mType=ITYPE_STATUS_BAR, mFrame=[0,0][720,56], mVisible=false}, InsetsSource: {mType=ITYPE_NAVIGATION_BAR, mFrame=[0,1460][720,1544], mVisible=false}, InsetsSource: {mType=ITYPE_TOP_GESTURES, mFrame=[0,0][720,56], mVisible=true}, InsetsSource: {mType=ITYPE_BOTTOM_GESTURES, mFrame=[0,1460][720,1544], mVisible=true}, InsetsSource: {mType=ITYPE_LEFT_GESTURES, mFrame=[0,0][0,1544], mVisible=true}, InsetsSource: {mType=ITYPE_RIGHT_GESTURES, mFrame=[720,0][720,1544], mVisible=true}, InsetsSource: {mType=ITYPE_TOP_TAPPABLE_ELEMENT, mFrame=[0,0][720,56], mVisible=true}, InsetsSource: {mType=ITYPE_BOTTOM_TAPPABLE_ELEMENT, mFrame=[0,1460][720,1544], mVisible=true}, InsetsSource: {mType=ITYPE_LEFT_DISPLAY_CUTOUT, mFrame=[0,0][-2147483648,1544], mVisible=true}, InsetsSource: {mType=ITYPE_TOP_DISPLAY_CUTOUT, mFrame=[0,0][720,54], mVisible=true}, InsetsSource: {mType=ITYPE_RIGHT_DISPLAY_CUTOUT, mFrame=[2147483647,0][720,1544], mVisible=true}, InsetsSource: {mType=ITYPE_BOTTOM_DISPLAY_CUTOUT, mFrame=[0,2147483647][720,1544], mVisible=true}, InsetsSource: {mType=ITYPE_IME, mFrame=[0,0][0,0], mVisible=false} }
+2023-07-22 16:44:37.738 10775-10775/com.hike.mazuma.debug D/ViewRootImpl[RushGameUnityActivity]: msg1 update new insets InsetsState: {mDisplayFrame=Rect(0, 0 - 720, 1544), mSources= { InsetsSource: {mType=ITYPE_STATUS_BAR, mFrame=[0,0][720,56], mVisible=false}, InsetsSource: {mType=ITYPE_NAVIGATION_BAR, mFrame=[0,1460][720,1544], mVisible=false}, InsetsSource: {mType=ITYPE_TOP_GESTURES, mFrame=[0,0][720,56], mVisible=true}, InsetsSource: {mType=ITYPE_BOTTOM_GESTURES, mFrame=[0,1460][720,1544], mVisible=true}, InsetsSource: {mType=ITYPE_LEFT_GESTURES, mFrame=[0,0][0,1544], mVisible=true}, InsetsSource: {mType=ITYPE_RIGHT_GESTURES, mFrame=[720,0][720,1544], mVisible=true}, InsetsSource: {mType=ITYPE_TOP_TAPPABLE_ELEMENT, mFrame=[0,0][720,56], mVisible=true}, InsetsSource: {mType=ITYPE_BOTTOM_TAPPABLE_ELEMENT, mFrame=[0,1460][720,1544], mVisible=true}, InsetsSource: {mType=ITYPE_LEFT_DISPLAY_CUTOUT, mFrame=[0,0][-2147483648,1544], mVisible=true}, InsetsSource: {mType=ITYPE_TOP_DISPLAY_CUTOUT, mFrame=[0,0][720,54], mVisible=true}, InsetsSource: {mType=ITYPE_RIGHT_DISPLAY_CUTOUT, mFrame=[2147483647,0][720,1544], mVisible=true}, InsetsSource: {mType=ITYPE_BOTTOM_DISPLAY_CUTOUT, mFrame=[0,2147483647][720,1544], mVisible=true}, InsetsSource: {mType=ITYPE_IME, mFrame=[0,0][0,0], mVisible=false} }
+2023-07-22 16:44:37.936 10775-10866/com.hike.mazuma.debug D/Unity: [EGL] Attaching window :0xd4bf1808
+2023-07-22 16:44:37.936 10775-10866/com.hike.mazuma.debug D/Unity: InitializeScriptEngine OK (0xb7c71fe0)
+2023-07-22 16:44:37.937 10775-10866/com.hike.mazuma.debug D/Unity: PlayerConnection already initialized - listening to [0.0.0.0:55465]
+2023-07-22 16:44:37.942 10775-10902/com.hike.mazuma.debug D/InsetsAnimationCtrlImpl: notify control request finished for types: 2
+2023-07-22 16:44:37.942 10775-10902/com.hike.mazuma.debug D/InsetsController: onAnimationFinish showOnFinish: false mRequestedTypes=2
+2023-07-22 16:44:37.950 10775-10866/com.hike.mazuma.debug E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2023-07-22 16:44:37.951 10775-10866/com.hike.mazuma.debug I/chatty: uid=10222(com.hike.mazuma.debug) UnityMain identical 14 lines
+2023-07-22 16:44:37.951 10775-10866/com.hike.mazuma.debug E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2023-07-22 16:44:38.000 10775-10866/com.hike.mazuma.debug D/Unity: Loading player data from assets/bin/Data/data.unity3d
+2023-07-22 16:44:38.030 10775-10866/com.hike.mazuma.debug E/linker: "/data/app/~~jG06xM9Ob6X8e4e_Cj8ziQ==/com.hike.mazuma.debug-UWfz1cpxoj4MZX9g76Z4pA==/lib/arm/libcrashpad_handler.so": ignoring DT_PREINIT_ARRAY in shared library!
+2023-07-22 16:44:38.045 10775-10866/com.hike.mazuma.debug D/Unity: PlayerInitEngineNoGraphics OK
+2023-07-22 16:44:38.045 10775-10866/com.hike.mazuma.debug I/Unity: Company Name: DefaultCompany
+2023-07-22 16:44:38.045 10775-10866/com.hike.mazuma.debug I/Unity: Product Name: unity-mazuma
+2023-07-22 16:44:38.045 10775-10866/com.hike.mazuma.debug D/Unity: AndroidGraphics::Startup window =  0xd4bf1808
+2023-07-22 16:44:38.045 10775-10866/com.hike.mazuma.debug D/Unity: [EGL] Attaching window :0xd4bf1808
+2023-07-22 16:44:38.049 10775-10866/com.hike.mazuma.debug D/Unity: [Subsystems] Discovering subsystems at path assets/bin/Data/UnitySubsystems
+2023-07-22 16:44:38.055 10775-10866/com.hike.mazuma.debug D/libMEOW: applied 1 plugins for [com.hike.mazuma.debug:Unity]:
+2023-07-22 16:44:38.055 10775-10866/com.hike.mazuma.debug D/libMEOW:   plugin 1: [libMEOW_gift.so]:
+2023-07-22 16:44:38.055 10775-10790/com.hike.mazuma.debug I/uma.debug:Unit: NativeAlloc concurrent copying GC freed 23263(1460KB) AllocSpace objects, 9(3772KB) LOS objects, 19% free, 8343KB/10MB, paused 140us total 145.915ms
+2023-07-22 16:44:38.056 10775-10866/com.hike.mazuma.debug D/Unity: [EGL] Request: ES 3.2 RGB0 000 0/0
+2023-07-22 16:44:38.059 10775-10866/com.hike.mazuma.debug D/Unity: [EGL] Checking ES 3.2 support...
+2023-07-22 16:44:38.065 10775-10866/com.hike.mazuma.debug I/libMEOW_gift: ctx:0xf0df8480, ARC not Enabled.
+2023-07-22 16:44:38.069 10775-10866/com.hike.mazuma.debug D/Unity: [EGL] ES 3.2 support detected
+2023-07-22 16:44:38.069 10775-10866/com.hike.mazuma.debug D/Unity: [EGL] Found: ID[37] ES 3.2 RGB16 565 0/0
+2023-07-22 16:44:38.069 10775-10866/com.hike.mazuma.debug D/Unity: GfxDevice: creating device client; threaded=1
+2023-07-22 16:44:38.070 10775-10866/com.hike.mazuma.debug D/Unity: [EGL] Request: ES 3.2 RGB0 000 0/0
+2023-07-22 16:44:38.072 10775-10866/com.hike.mazuma.debug D/Unity: [EGL] Found: ID[37] ES 3.2 RGB16 565 0/0
+2023-07-22 16:44:38.073 10775-10866/com.hike.mazuma.debug D/Unity: [EGL] Request: ES 3.0 RGBA32 8888 0/0
+2023-07-22 16:44:38.083 10775-10866/com.hike.mazuma.debug D/Unity: [EGL] Found: ID[1] ES 3.0 RGBA32 8888 0/0
+2023-07-22 16:44:38.088 10775-10866/com.hike.mazuma.debug D/Unity: ANativeWindow: (720/1544) RequestedResolution: (0/0) RenderingResolution: (0/0) EGLSurface: (720/1544)
+2023-07-22 16:44:38.095 10775-10866/com.hike.mazuma.debug I/libMEOW_gift: ctx:0xf0df8720, ARC not Enabled.
+2023-07-22 16:44:38.106 10775-10866/com.hike.mazuma.debug D/Unity: Renderer: PowerVR Rogue GE8320
+2023-07-22 16:44:38.106 10775-10866/com.hike.mazuma.debug D/Unity: Vendor:   Imagination Technologies
+2023-07-22 16:44:38.106 10775-10866/com.hike.mazuma.debug D/Unity: Version:  OpenGL ES 3.2 build 1.13@5776728
+2023-07-22 16:44:38.106 10775-10866/com.hike.mazuma.debug D/Unity: GLES:     3
+2023-07-22 16:44:38.106 10775-10866/com.hike.mazuma.debug D/Unity:  GL_EXT_debug_marker GL_ANDROID_extension_pack_es31a GL_EXT_blend_minmax GL_EXT_buffer_storage GL_EXT_clear_texture GL_EXT_clip_control GL_EXT_color_buffer_float GL_EXT_color_buffer_half_float GL_EXT_conservative_depth GL_EXT_copy_image GL_EXT_discard_framebuffer GL_EXT_draw_buffers GL_EXT_draw_buffers_indexed GL_EXT_draw_elements_base_vertex GL_EXT_EGL_image_array GL_EXT_external_buffer GL_EXT_float_blend GL_EXT_geometry_point_size GL_EXT_geometry_shader GL_EXT_gpu_shader5 GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_multi_draw_arrays GL_EXT_multisampled_render_to_texture GL_EXT_multisampled_render_to_texture2 GL_EXT_occlusion_query_boolean GL_EXT_polygon_offset_clamp GL_EXT_primitive_bounding_box GL_EXT_pvrtc_sRGB GL_EXT_read_format_bgra GL_EXT_robustness GL_EXT_separate_shader_objects GL_EXT_shader_framebuffer_fetch GL_EXT_shader_group_vote GL_EXT_shader_implicit_conversions GL_EXT_shader_io_blocks GL_EXT_shader_non_constant_global_initializers GL_EXT_shader_pixel_local_storage GL_EXT_shader_pixel_
+2023-07-22 16:44:38.106 10775-10866/com.hike.mazuma.debug D/Unity: local_storage2 GL_EXT_shader_texture_lod GL_EXT_sparse_texture GL_EXT_sRGB_write_control GL_EXT_tessellation_point_size GL_EXT_tessellation_shader GL_EXT_texture_border_clamp GL_EXT_texture_buffer GL_EXT_texture_cube_map_array GL_EXT_texture_format_BGRA8888 GL_EXT_texture_format_sRGB_override GL_EXT_texture_rg GL_EXT_texture_shadow_lod GL_EXT_texture_sRGB_decode GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_YUV_target GL_IMG_framebuffer_downsample GL_IMG_multisampled_render_to_texture GL_IMG_program_binary GL_IMG_read_format GL_IMG_shader_binary GL_IMG_texture_compression_pvrtc GL_IMG_texture_compression_pvrtc2 GL_IMG_texture_format_BGRA8888 GL_IMG_texture_npot GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_debug GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_OES_compressed_ETC1_RGB8_texture GL_OES_depth24 GL_OES_depth_texture GL_OES_draw_buffers_indexed GL_OES_draw_elements_base_vertex GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_EGL_image_external_essl3
+2023-07-22 16:44:38.106 10775-10866/com.hike.mazuma.debug D/Unity:  GL_OES_EGL_sync GL_OES_element_index_uint GL_OES_fragment_precision_high GL_OES_geometry_point_size GL_OES_geometry_shader GL_OES_get_program_binary GL_OES_gpu_shader5 GL_OES_mapbuffer GL_OES_packed_depth_stencil GL_OES_required_internalformat GL_OES_rgb8_rgba8 GL_OES_sample_shading GL_OES_sample_variables GL_OES_shader_image_atomic GL_OES_shader_io_blocks GL_OES_shader_multisample_interpolation GL_OES_standard_derivatives GL_OES_surfaceless_context GL_OES_tessellation_point_size GL_OES_tessellation_shader GL_OES_texture_border_clamp GL_OES_texture_buffer GL_OES_texture_cube_map_array GL_OES_texture_float GL_OES_texture_half_float GL_OES_texture_npot GL_OES_texture_stencil8 GL_OES_texture_storage_multisample_2d_array GL_OES_vertex_array_object GL_OES_vertex_half_float
+2023-07-22 16:44:38.109 10775-10866/com.hike.mazuma.debug D/Unity: OPENGL LOG: Creating OpenGL ES 3.2 graphics device ; Context level  <OpenGL ES 3.2> ; Context handle -408740992
+2023-07-22 16:44:38.110 10775-10930/com.hike.mazuma.debug D/libMEOW: applied 1 plugins for [com.hike.mazuma.debug:Unity]:
+2023-07-22 16:44:38.110 10775-10930/com.hike.mazuma.debug D/libMEOW:   plugin 1: [libMEOW_gift.so]:
+2023-07-22 16:44:38.112 10775-10866/com.hike.mazuma.debug D/Unity: [EGL] Attaching window :0xd4bf1808
+2023-07-22 16:44:38.118 10775-10866/com.hike.mazuma.debug D/Unity: Requested framebuffer: resolution[720x1544], rgba[8/8/8/8], depth+stencil[on], samples[1]
+2023-07-22 16:44:38.121 10775-10866/com.hike.mazuma.debug D/Unity: Created framebuffer: resolution[720x1544], rgba[8/8/8/8], depth+stencil[24/8], samples[0] 
+2023-07-22 16:44:38.121 10775-10866/com.hike.mazuma.debug D/Unity: [EGL] Attaching window :0xd4bf1808
+2023-07-22 16:44:38.122 10775-10866/com.hike.mazuma.debug D/Unity: Initialize engine version: 2020.3.25f1 (9b9180224418)
+2023-07-22 16:44:38.170 10775-10866/com.hike.mazuma.debug D/uma.debug:Unit: PlayerBase::PlayerBase()
+2023-07-22 16:44:38.171 10775-10866/com.hike.mazuma.debug D/uma.debug:Unit: TrackPlayerBase::TrackPlayerBase()
+2023-07-22 16:44:38.171 10775-10866/com.hike.mazuma.debug I/libOpenSLES: Emulating old channel mask behavior (ignoring positional mask 0x3, using default mask 0x3 based on channel count of 2)
+2023-07-22 16:44:38.171 10775-10866/com.hike.mazuma.debug D/AudioTrack: INSP: type=audio,case=1,set=0xc2ad8300,stream_type=3,sample_rate=48000,format=0x1,channel_mask=0x3,frame_count=0,flags=0x104,notification_frames=-8,session_id=1873,transfer_type=0,uid=-1,pid=-1
+2023-07-22 16:44:38.171 10775-10866/com.hike.mazuma.debug D/AudioTrack: set(): streamType 3, sampleRate 48000, format 0x1, channelMask 0x3, frameCount 0, flags #104, notificationFrames -8, sessionId 1873, transferType 0, uid -1, pid -1
+2023-07-22 16:44:38.171 10775-10866/com.hike.mazuma.debug D/AudioTrack: getpackName client name com.hike.mazuma.debug:Unity(10775)
+2023-07-22 16:44:38.171 10775-10866/com.hike.mazuma.debug I/chatty: uid=10222(com.hike.mazuma.debug) UnityMain identical 1 line
+2023-07-22 16:44:38.171 10775-10866/com.hike.mazuma.debug D/AudioTrack: getpackName client name com.hike.mazuma.debug:Unity(10775)
+2023-07-22 16:44:38.171 10775-10866/com.hike.mazuma.debug D/AudioTrack: set(): 0xc2ad8300, Create AudioTrackThread, tid = 10935
+2023-07-22 16:44:38.208 10775-10866/com.hike.mazuma.debug I/AudioTrack: createTrack_l(0): AUDIO_OUTPUT_FLAG_FAST successful; frameCount 0 -> 2048
+2023-07-22 16:44:38.208 10775-10866/com.hike.mazuma.debug D/AudioTrack: createTrack_l(206): 0xc2ad8300, mCblk = 0xa88d2000, mLatency = 84, mAfLatency = 42, frameCount = 2048, mSampleRate = 48000, mFlags = 0x4, mReqFrameCount = 2048, mNotificationFramesAct = 256
+2023-07-22 16:44:38.214 10775-10866/com.hike.mazuma.debug D/AudioTrack: start(206): 0xc2ad8300, prior state:STATE_STOPPED
+2023-07-22 16:44:38.859 10955-10955/? I/android.vendin: The ClassLoaderContext is a special shared library.
+2023-07-22 16:44:39.011 6553-6553/com.hike.mazuma.debug D/RushAnalytics: ----Uploading events on Session end----
+2023-07-22 16:44:39.012 6553-10392/com.hike.mazuma.debug D/RushAnalytics: CHECKING FILE VALIDITY FOR COMPRESSION
+2023-07-22 16:44:39.013 6553-10392/com.hike.mazuma.debug D/RushAnalytics: FILE COMPRESSION IN PROCESS
+2023-07-22 16:44:39.013 6553-10392/com.hike.mazuma.debug D/RushAnalytics: Source file url: /data/user/0/com.hike.mazuma.debug/files/Analytics/impdata1690024455363.txt
+2023-07-22 16:44:39.014 6553-10392/com.hike.mazuma.debug D/RushAnalytics: Destination file url: /data/user/0/com.hike.mazuma.debug/files/Analytics/impdata1690024455363.gz
+2023-07-22 16:44:39.025 10775-10866/com.hike.mazuma.debug D/Unity: PlayerInitEngineGraphics OK
+2023-07-22 16:44:39.033 6553-10392/com.hike.mazuma.debug D/RushAnalytics: File compressed: /data/user/0/com.hike.mazuma.debug/files/Analytics/impdata1690024455363.txt
+2023-07-22 16:44:39.033 6553-10392/com.hike.mazuma.debug D/RushAnalytics: File was deleted: /data/user/0/com.hike.mazuma.debug/files/Analytics/impdata1690024455363.txt
+2023-07-22 16:44:39.033 6553-10392/com.hike.mazuma.debug D/RushAnalytics: CHECKING FILE VALIDITY FOR COMPRESSION
+2023-07-22 16:44:39.034 6553-10392/com.hike.mazuma.debug D/RushAnalytics: FILE COMPRESSION IN PROCESS
+2023-07-22 16:44:39.034 6553-10392/com.hike.mazuma.debug D/RushAnalytics: Source file url: /data/user/0/com.hike.mazuma.debug/files/Analytics/impdata1690024475545.txt
+2023-07-22 16:44:39.034 6553-10392/com.hike.mazuma.debug D/RushAnalytics: Destination file url: /data/user/0/com.hike.mazuma.debug/files/Analytics/impdata1690024475545.gz
+2023-07-22 16:44:39.040 6553-10392/com.hike.mazuma.debug D/RushAnalytics: File compressed: /data/user/0/com.hike.mazuma.debug/files/Analytics/impdata1690024475545.txt
+2023-07-22 16:44:39.040 6553-10392/com.hike.mazuma.debug D/RushAnalytics: File was deleted: /data/user/0/com.hike.mazuma.debug/files/Analytics/impdata1690024475545.txt
+2023-07-22 16:44:39.040 6553-10392/com.hike.mazuma.debug D/RushAnalytics: Total files to upload:2
+2023-07-22 16:44:39.041 6553-10392/com.hike.mazuma.debug D/RushAnalytics: requestId: impdata1690024475545.gz
+2023-07-22 16:44:39.041 6553-10392/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:39.042 6553-10392/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:39.045 6553-10392/com.hike.mazuma.debug D/Http: LogFull : 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : d8f8c352d4e6fa4f57696d66b722caf6
+    } is not already running 
+2023-07-22 16:44:39.046 6553-10392/com.hike.mazuma.debug D/Http: LogFull : Executing Request Token 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : d8f8c352d4e6fa4f57696d66b722caf6
+    }
+2023-07-22 16:44:39.048 6553-10392/com.hike.mazuma.debug D/Http: LogFull : Adding 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : d8f8c352d4e6fa4f57696d66b722caf6
+    } to request map
+2023-07-22 16:44:39.048 6553-10392/com.hike.mazuma.debug D/Http: LogFull : Submitting request 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : d8f8c352d4e6fa4f57696d66b722caf6
+    } to WorkEngineAsync
+2023-07-22 16:44:39.049 6553-10392/com.hike.mazuma.debug D/RushAnalytics: requestId: impdata1690024455363.gz
+2023-07-22 16:44:39.050 6553-6989/com.hike.mazuma.debug D/Http: LogFull : 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : d8f8c352d4e6fa4f57696d66b722caf6
+    } submitted to Work Engine
+2023-07-22 16:44:39.050 6553-10392/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:39.050 6553-10392/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:39.052 6553-10392/com.hike.mazuma.debug D/Http: LogFull : 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : 15b3d04ca7a1f377d91708b42b71df
+    } is not already running 
+2023-07-22 16:44:39.053 6553-10392/com.hike.mazuma.debug D/Http: LogFull : Executing Request Token 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : 15b3d04ca7a1f377d91708b42b71df
+    }
+2023-07-22 16:44:39.055 6553-10392/com.hike.mazuma.debug D/Http: LogFull : Adding 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : 15b3d04ca7a1f377d91708b42b71df
+    } to request map
+2023-07-22 16:44:39.057 6553-10392/com.hike.mazuma.debug D/Http: LogFull : Submitting request 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : 15b3d04ca7a1f377d91708b42b71df
+    } to WorkEngineAsync
+2023-07-22 16:44:39.058 6553-10392/com.hike.mazuma.debug D/RushAnalytics: Nothing to Upload!!!
+2023-07-22 16:44:39.069 10775-10866/com.hike.mazuma.debug D/Unity: Found 23 native sensors
+2023-07-22 16:44:39.080 10775-10866/com.hike.mazuma.debug D/Unity: Sensor :        Accelerometer ( 1) ; 0.001200 / 0.00s ; ACCELEROMETER / lis2hh12 
+2023-07-22 16:44:39.081 10775-10866/com.hike.mazuma.debug D/Unity: Sensor :        Accelerometer ( 1) ; 0.001200 / 0.00s ; ACCELEROMETER / lis2hh12 
+2023-07-22 16:44:39.083 6553-6989/com.hike.mazuma.debug D/Http: LogFull : Persisted 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : d8f8c352d4e6fa4f57696d66b722caf6
+    } in WorkEngine DB
+2023-07-22 16:44:39.090 10955-10955/? W/android.vendin: JIT profile information will not be recorded: profile file does not exist.
+2023-07-22 16:44:39.091 10955-10955/? W/android.vendin: JIT profile information will not be recorded: profile file does not exist.
+2023-07-22 16:44:39.091 6553-6989/com.hike.mazuma.debug D/Http: LogFull : Scheduling work with tag: work_tag_without_constraint0
+2023-07-22 16:44:39.091 10955-10955/? W/android.vendin: JIT profile information will not be recorded: profile file does not exist.
+2023-07-22 16:44:39.091 10955-10955/? W/android.vendin: JIT profile information will not be recorded: profile file does not exist.
+2023-07-22 16:44:39.092 6553-6989/com.hike.mazuma.debug D/Http: LogFull : Scheduling request in WorkManager.
+     WorkRequest id: 264f10c4-3e6f-4c17-b60b-7655441e26a5
+2023-07-22 16:44:39.094 6553-6989/com.hike.mazuma.debug D/Http: LogFull : 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : 15b3d04ca7a1f377d91708b42b71df
+    } submitted to Work Engine
+2023-07-22 16:44:39.106 10775-10866/com.hike.mazuma.debug D/Unity: SetWindow 0 0xd4bf1808
+2023-07-22 16:44:39.107 10775-10866/com.hike.mazuma.debug D/Unity: [EGL] Attaching window :0xd4bf1808
+2023-07-22 16:44:39.129 6553-6989/com.hike.mazuma.debug D/Http: LogFull : Persisted 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : 15b3d04ca7a1f377d91708b42b71df
+    } in WorkEngine DB
+2023-07-22 16:44:39.144 10775-10866/com.hike.mazuma.debug V/MediaRouter: Selecting route: RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+2023-07-22 16:44:39.154 6553-6996/com.hike.mazuma.debug D/Http: LogFull : doWork() called for :264f10c4-3e6f-4c17-b60b-7655441e26a5on thread: work-manager
+2023-07-22 16:44:39.160 6553-6989/com.hike.mazuma.debug D/Http: LogFull : Scheduling work with tag: work_tag_without_constraint1
+2023-07-22 16:44:39.161 6553-6989/com.hike.mazuma.debug D/Http: LogFull : Scheduling request in WorkManager.
+     WorkRequest id: 38d54499-5ff5-490e-bdd1-b2b8d563265e
+2023-07-22 16:44:39.171 6553-6996/com.hike.mazuma.debug D/Http: LogFull : WorkSpecId: 264f10c4-3e6f-4c17-b60b-7655441e26a5Running Persistable request: {reqId: d8f8c352d4e6fa4f57696d66b722caf6, retryClass: AnalyticsUploadRetryTask, extras: Bundle[mParcelledData.dataSize=284], priority: 100, retries: 5, minTs: 1690024479, workStatus: 0}
+2023-07-22 16:44:39.172 6553-6996/com.hike.mazuma.debug I/Http: LogFull : removing key in map: d8f8c352d4e6fa4f57696d66b722caf6
+2023-07-22 16:44:39.173 6553-6996/com.hike.mazuma.debug D/Http: LogFull : Found request in memory: {reqId: d8f8c352d4e6fa4f57696d66b722caf6, retryClass: AnalyticsUploadRetryTask, extras: Bundle[mParcelledData.dataSize=284], priority: 100, retries: 5, minTs: 1690024479, workStatus: 0}
+2023-07-22 16:44:39.173 6553-6996/com.hike.mazuma.debug D/Http: LogFull : Executing Request in sync 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : d8f8c352d4e6fa4f57696d66b722caf6
+    }
+2023-07-22 16:44:39.174 6553-6996/com.hike.mazuma.debug D/Http: LogFull : Adding 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : d8f8c352d4e6fa4f57696d66b722caf6
+    } to request map
+2023-07-22 16:44:39.174 6553-6996/com.hike.mazuma.debug D/Http: LogFull : Submitting request 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : d8f8c352d4e6fa4f57696d66b722caf6
+    } to SynchronousEngine
+2023-07-22 16:44:39.175 6553-6996/com.hike.mazuma.debug D/Http: LogFull : 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : d8f8c352d4e6fa4f57696d66b722caf6
+    } submitted to Synchronous Engine
+2023-07-22 16:44:39.176 6553-6996/com.hike.mazuma.debug D/Http: LogFull : Pre-processing started for 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : d8f8c352d4e6fa4f57696d66b722caf6
+    }
+2023-07-22 16:44:39.176 6553-6996/com.hike.mazuma.debug D/RushAnalytics: Intercepting HTTP request
+2023-07-22 16:44:39.176 6553-6996/com.hike.mazuma.debug D/RushAnalytics: Uploading: /data/user/0/com.hike.mazuma.debug/files/Analytics/impdata1690024475545.gz
+2023-07-22 16:44:39.177 6553-6996/com.hike.mazuma.debug D/Http: LogFull : Pre-processing completed for 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : d8f8c352d4e6fa4f57696d66b722caf6
+    }
+2023-07-22 16:44:39.177 6553-6996/com.hike.mazuma.debug D/Http: LogFull : 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : d8f8c352d4e6fa4f57696d66b722caf6
+    } processing started
+2023-07-22 16:44:39.179 10955-10955/? D/NetworkSecurityConfig: No Network Security Config specified, using platform default
+2023-07-22 16:44:39.180 10955-10955/? D/NetworkSecurityConfig: No Network Security Config specified, using platform default
+2023-07-22 16:44:39.184 6553-6996/com.hike.mazuma.debug D/Http: LogFull : --> POST https://api-staging.getrushapp.com/v1/logs/analytics h2
+2023-07-22 16:44:39.185 6553-6996/com.hike.mazuma.debug D/Http: LogFull : Content-Encoding: gzip
+2023-07-22 16:44:39.185 6553-6996/com.hike.mazuma.debug D/Http: LogFull : Cookie: user=JYUHJ4z5KXEH5ILu=; UID=YOU5dzukYGdrl0fE
+2023-07-22 16:44:39.187 6553-6996/com.hike.mazuma.debug D/Http: LogFull : User-Agent: android-1.0.631.CDF
+2023-07-22 16:44:39.190 6553-6996/com.hike.mazuma.debug D/Http: LogFull : Cache-Control: no-transform
+2023-07-22 16:44:39.190 6553-6996/com.hike.mazuma.debug D/Http: LogFull : retry-header: 1
+2023-07-22 16:44:39.191 6553-6996/com.hike.mazuma.debug D/Http: LogFull : Content-Type: text/plain
+2023-07-22 16:44:39.192 6553-6996/com.hike.mazuma.debug D/Http: LogFull : Content-Length: 612
+2023-07-22 16:44:39.192 6553-6996/com.hike.mazuma.debug D/Http: LogFull : Host: api-staging.getrushapp.com
+2023-07-22 16:44:39.193 6553-6996/com.hike.mazuma.debug D/Http: LogFull : Connection: Keep-Alive
+2023-07-22 16:44:39.194 6553-6996/com.hike.mazuma.debug D/Http: LogFull : Accept-Encoding: gzip
+2023-07-22 16:44:39.194 6553-6996/com.hike.mazuma.debug D/Http: LogFull : --> END POST
+2023-07-22 16:44:39.201 6553-6991/com.hike.mazuma.debug D/Http: LogFull : doWork() called for :38d54499-5ff5-490e-bdd1-b2b8d563265eon thread: work-manager
+2023-07-22 16:44:39.250 6553-6991/com.hike.mazuma.debug D/Http: LogFull : WorkSpecId: 38d54499-5ff5-490e-bdd1-b2b8d563265eRunning Persistable request: {reqId: 15b3d04ca7a1f377d91708b42b71df, retryClass: AnalyticsUploadRetryTask, extras: Bundle[mParcelledData.dataSize=284], priority: 100, retries: 5, minTs: 1690024479, workStatus: 0}
+2023-07-22 16:44:39.252 6553-6991/com.hike.mazuma.debug I/Http: LogFull : removing key in map: 15b3d04ca7a1f377d91708b42b71df
+2023-07-22 16:44:39.253 6553-6991/com.hike.mazuma.debug D/Http: LogFull : Found request in memory: {reqId: 15b3d04ca7a1f377d91708b42b71df, retryClass: AnalyticsUploadRetryTask, extras: Bundle[mParcelledData.dataSize=284], priority: 100, retries: 5, minTs: 1690024479, workStatus: 0}
+2023-07-22 16:44:39.255 6553-6991/com.hike.mazuma.debug D/Http: LogFull : Executing Request in sync 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : 15b3d04ca7a1f377d91708b42b71df
+    }
+2023-07-22 16:44:39.256 6553-6991/com.hike.mazuma.debug D/Http: LogFull : Adding 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : 15b3d04ca7a1f377d91708b42b71df
+    } to request map
+2023-07-22 16:44:39.258 6553-6991/com.hike.mazuma.debug D/Http: LogFull : Submitting request 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : 15b3d04ca7a1f377d91708b42b71df
+    } to SynchronousEngine
+2023-07-22 16:44:39.258 6553-6991/com.hike.mazuma.debug D/Http: LogFull : 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : 15b3d04ca7a1f377d91708b42b71df
+    } submitted to Synchronous Engine
+2023-07-22 16:44:39.259 6553-6991/com.hike.mazuma.debug D/Http: LogFull : Pre-processing started for 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : 15b3d04ca7a1f377d91708b42b71df
+    }
+2023-07-22 16:44:39.259 6553-6991/com.hike.mazuma.debug D/RushAnalytics: Intercepting HTTP request
+2023-07-22 16:44:39.259 6553-6991/com.hike.mazuma.debug D/RushAnalytics: Uploading: /data/user/0/com.hike.mazuma.debug/files/Analytics/impdata1690024455363.gz
+2023-07-22 16:44:39.260 6553-6991/com.hike.mazuma.debug D/Http: LogFull : Pre-processing completed for 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : 15b3d04ca7a1f377d91708b42b71df
+    }
+2023-07-22 16:44:39.261 6553-6991/com.hike.mazuma.debug D/Http: LogFull : 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : 15b3d04ca7a1f377d91708b42b71df
+    } processing started
+2023-07-22 16:44:39.269 6553-6991/com.hike.mazuma.debug D/Http: LogFull : --> POST https://api-staging.getrushapp.com/v1/logs/analytics h2
+2023-07-22 16:44:39.271 6553-6991/com.hike.mazuma.debug D/Http: LogFull : Content-Encoding: gzip
+2023-07-22 16:44:39.273 6553-6991/com.hike.mazuma.debug D/Http: LogFull : Cookie: user=JYUHJ4z5KXEH5ILu=; UID=YOU5dzukYGdrl0fE
+2023-07-22 16:44:39.273 6553-6991/com.hike.mazuma.debug D/Http: LogFull : User-Agent: android-1.0.631.CDF
+2023-07-22 16:44:39.274 6553-6991/com.hike.mazuma.debug D/Http: LogFull : Cache-Control: no-transform
+2023-07-22 16:44:39.275 6553-6991/com.hike.mazuma.debug D/Http: LogFull : retry-header: 1
+2023-07-22 16:44:39.276 6553-6991/com.hike.mazuma.debug D/Http: LogFull : Content-Type: text/plain
+2023-07-22 16:44:39.277 10775-10790/com.hike.mazuma.debug I/uma.debug:Unit: NativeAlloc concurrent copying GC freed 10879(719KB) AllocSpace objects, 0(0B) LOS objects, 19% free, 8568KB/10MB, paused 178us total 152.187ms
+2023-07-22 16:44:39.277 6553-6991/com.hike.mazuma.debug D/Http: LogFull : Content-Length: 6142
+2023-07-22 16:44:39.278 6553-6991/com.hike.mazuma.debug D/Http: LogFull : Host: api-staging.getrushapp.com
+2023-07-22 16:44:39.279 6553-6991/com.hike.mazuma.debug D/Http: LogFull : Connection: Keep-Alive
+2023-07-22 16:44:39.280 6553-6991/com.hike.mazuma.debug D/Http: LogFull : Accept-Encoding: gzip
+2023-07-22 16:44:39.281 6553-6991/com.hike.mazuma.debug D/Http: LogFull : --> END POST
+2023-07-22 16:44:39.344 6553-6996/com.hike.mazuma.debug D/Http: LogFull : <-- 200 https://api-staging.getrushapp.com/v1/logs/analytics (149ms)
+2023-07-22 16:44:39.345 6553-6996/com.hike.mazuma.debug D/Http: LogFull : server: nginx
+2023-07-22 16:44:39.346 6553-6996/com.hike.mazuma.debug D/Http: LogFull : date: Sat, 22 Jul 2023 11:14:39 GMT
+2023-07-22 16:44:39.346 6553-6996/com.hike.mazuma.debug D/Http: LogFull : content-type: application/json
+2023-07-22 16:44:39.347 6553-6996/com.hike.mazuma.debug D/Http: LogFull : content-length: 28
+2023-07-22 16:44:39.348 6553-6996/com.hike.mazuma.debug D/Http: LogFull : strict-transport-security: max-age=63072000;
+2023-07-22 16:44:39.349 6553-6996/com.hike.mazuma.debug D/Http: LogFull : via: 1.1 google
+2023-07-22 16:44:39.349 6553-6996/com.hike.mazuma.debug D/Http: LogFull : alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+2023-07-22 16:44:39.350 6553-6996/com.hike.mazuma.debug D/Http: LogFull : <-- END HTTP
+2023-07-22 16:44:39.375 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: 'true' for key: 'fpr_enabled' from Firebase Remote Config.
+2023-07-22 16:44:39.376 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: '' for key: 'fpr_disabled_android_versions' from Firebase Remote Config.
+2023-07-22 16:44:39.377 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: 'true' for key: 'fpr_enabled' from Firebase Remote Config.
+2023-07-22 16:44:39.378 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: '' for key: 'fpr_disabled_android_versions' from Firebase Remote Config.
+2023-07-22 16:44:39.380 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: '1.0' for key: 'fpr_vc_network_request_sampling_rate' from Firebase Remote Config.
+2023-07-22 16:44:39.384 6553-10519/com.hike.mazuma.debug I/FirebasePerformance: Rate Limited - network request trace: https://api-staging.getrushapp.com/v1/logs/analytics (responseCode: 200, responseTime: 190.1690ms)
+2023-07-22 16:44:39.398 6553-6996/com.hike.mazuma.debug I/System.out:  stream to bytes while loop count : 1   time : 1
+2023-07-22 16:44:39.398 6553-6996/com.hike.mazuma.debug I/System.out:  stream to bytes method time : 1
+2023-07-22 16:44:39.400 6553-6996/com.hike.mazuma.debug D/Http: LogFull : 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : d8f8c352d4e6fa4f57696d66b722caf6
+    } completed
+2023-07-22 16:44:39.401 6553-6996/com.hike.mazuma.debug D/Http: LogFull : positive response for : https://api-staging.getrushapp.com/v1/logs/analytics
+2023-07-22 16:44:39.402 6553-6996/com.hike.mazuma.debug D/Http: LogFull : Request execution succeeded 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : d8f8c352d4e6fa4f57696d66b722caf6
+    }
+2023-07-22 16:44:39.403 6553-6996/com.hike.mazuma.debug D/Http: LogFull : Setting status ar SUCCESSFUL. 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : d8f8c352d4e6fa4f57696d66b722caf6
+    }
+2023-07-22 16:44:39.412 6553-6991/com.hike.mazuma.debug D/Http: LogFull : <-- 200 https://api-staging.getrushapp.com/v1/logs/analytics (130ms)
+2023-07-22 16:44:39.414 6553-6991/com.hike.mazuma.debug D/Http: LogFull : server: nginx
+2023-07-22 16:44:39.415 6553-6991/com.hike.mazuma.debug D/Http: LogFull : date: Sat, 22 Jul 2023 11:14:39 GMT
+2023-07-22 16:44:39.415 6553-6991/com.hike.mazuma.debug D/Http: LogFull : content-type: application/json
+2023-07-22 16:44:39.416 6553-6991/com.hike.mazuma.debug D/Http: LogFull : content-length: 28
+2023-07-22 16:44:39.417 6553-6991/com.hike.mazuma.debug D/Http: LogFull : strict-transport-security: max-age=63072000;
+2023-07-22 16:44:39.418 6553-6991/com.hike.mazuma.debug D/Http: LogFull : via: 1.1 google
+2023-07-22 16:44:39.420 6553-6991/com.hike.mazuma.debug D/Http: LogFull : alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+2023-07-22 16:44:39.422 6553-6991/com.hike.mazuma.debug D/Http: LogFull : <-- END HTTP
+2023-07-22 16:44:39.426 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: 'true' for key: 'fpr_enabled' from Firebase Remote Config.
+2023-07-22 16:44:39.427 6553-6991/com.hike.mazuma.debug I/System.out:  stream to bytes while loop count : 1   time : 0
+2023-07-22 16:44:39.427 6553-6991/com.hike.mazuma.debug I/System.out:  stream to bytes method time : 1
+2023-07-22 16:44:39.428 6553-6991/com.hike.mazuma.debug D/Http: LogFull : 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : 15b3d04ca7a1f377d91708b42b71df
+    } completed
+2023-07-22 16:44:39.429 6553-6991/com.hike.mazuma.debug D/Http: LogFull : positive response for : https://api-staging.getrushapp.com/v1/logs/analytics
+2023-07-22 16:44:39.430 6553-6991/com.hike.mazuma.debug D/Http: LogFull : Request execution succeeded 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : 15b3d04ca7a1f377d91708b42b71df
+    }
+2023-07-22 16:44:39.430 6553-6991/com.hike.mazuma.debug D/Http: LogFull : Setting status ar SUCCESSFUL. 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : 15b3d04ca7a1f377d91708b42b71df
+    }
+2023-07-22 16:44:39.431 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: '' for key: 'fpr_disabled_android_versions' from Firebase Remote Config.
+2023-07-22 16:44:39.432 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: 'true' for key: 'fpr_enabled' from Firebase Remote Config.
+2023-07-22 16:44:39.433 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: '' for key: 'fpr_disabled_android_versions' from Firebase Remote Config.
+2023-07-22 16:44:39.435 6553-10519/com.hike.mazuma.debug D/FirebasePerformance: Fetched value: '1.0' for key: 'fpr_vc_network_request_sampling_rate' from Firebase Remote Config.
+2023-07-22 16:44:39.438 6553-10519/com.hike.mazuma.debug I/FirebasePerformance: Rate Limited - network request trace: https://api-staging.getrushapp.com/v1/logs/analytics (responseCode: 200, responseTime: 157.7060ms)
+2023-07-22 16:44:39.446 6553-6996/com.hike.mazuma.debug D/RushAnalytics: File :/data/user/0/com.hike.mazuma.debug/files/Analytics/impdata1690024475545.gz uploaded successfully!!
+2023-07-22 16:44:39.448 6553-6996/com.hike.mazuma.debug I/Http: LogFull : 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : d8f8c352d4e6fa4f57696d66b722caf6
+    } removing key in map
+2023-07-22 16:44:39.449 6553-6996/com.hike.mazuma.debug D/Http: LogFull : Returning Result.SUCCESS for: 264f10c4-3e6f-4c17-b60b-7655441e26a5Persistable request: {reqId: d8f8c352d4e6fa4f57696d66b722caf6, retryClass: AnalyticsUploadRetryTask, extras: Bundle[mParcelledData.dataSize=284], priority: 100, retries: 5, minTs: 1690024479, workStatus: 0}
+2023-07-22 16:44:39.463 6553-6991/com.hike.mazuma.debug D/RushAnalytics: File :/data/user/0/com.hike.mazuma.debug/files/Analytics/impdata1690024455363.gz uploaded successfully!!
+2023-07-22 16:44:39.464 6553-6991/com.hike.mazuma.debug I/Http: LogFull : 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : 15b3d04ca7a1f377d91708b42b71df
+    } removing key in map
+2023-07-22 16:44:39.465 6553-6991/com.hike.mazuma.debug D/Http: LogFull : Returning Result.SUCCESS for: 38d54499-5ff5-490e-bdd1-b2b8d563265ePersistable request: {reqId: 15b3d04ca7a1f377d91708b42b71df, retryClass: AnalyticsUploadRetryTask, extras: Bundle[mParcelledData.dataSize=284], priority: 100, retries: 5, minTs: 1690024479, workStatus: 0}
+2023-07-22 16:44:39.466 6553-6630/com.hike.mazuma.debug D/Http: HttpWorker : HttpWorker
+2023-07-22 16:44:39.483 10955-10955/? I/Finsky: [2] jrm.i(84): Process created at version: 36.6.25-29 [0] [PR] 549167571
+2023-07-22 16:44:39.490 6553-6858/com.hike.mazuma.debug I/WM-WorkerWrapper: Work [ id=264f10c4-3e6f-4c17-b60b-7655441e26a5, tags={ com.httpmanager.work.HttpWorker, work_tag_without_constraint0 } ] was cancelled
+    java.util.concurrent.CancellationException: Task was cancelled.
+        at androidx.work.impl.utils.futures.AbstractFuture.cancellationExceptionWithCause(AbstractFuture.java:1184)
+        at androidx.work.impl.utils.futures.AbstractFuture.getDoneValue(AbstractFuture.java:514)
+        at androidx.work.impl.utils.futures.AbstractFuture.get(AbstractFuture.java:475)
+        at androidx.work.impl.WorkerWrapper$2.run(WorkerWrapper.java:311)
+        at androidx.work.impl.utils.SerialExecutor$Task.run(SerialExecutor.java:91)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at java.lang.Thread.run(Thread.java:923)
+2023-07-22 16:44:39.576 6553-6858/com.hike.mazuma.debug D/Http: HttpWorker : HttpWorker
+2023-07-22 16:44:39.614 6553-6996/com.hike.mazuma.debug D/Http: LogFull : New updated request: {reqId: d8f8c352d4e6fa4f57696d66b722caf6, retryClass: AnalyticsUploadRetryTask, extras: Bundle[mParcelledData.dataSize=284], priority: 100, retries: 5, minTs: 1690024479, workStatus: 4}
+2023-07-22 16:44:39.615 6553-6996/com.hike.mazuma.debug D/Http: LogFull : Deleting request {reqId: d8f8c352d4e6fa4f57696d66b722caf6, retryClass: AnalyticsUploadRetryTask, extras: Bundle[mParcelledData.dataSize=284], priority: 100, retries: 5, minTs: 1690024479, workStatus: 4}
+2023-07-22 16:44:39.623 6553-6858/com.hike.mazuma.debug I/WM-WorkerWrapper: Work [ id=38d54499-5ff5-490e-bdd1-b2b8d563265e, tags={ com.httpmanager.work.HttpWorker, work_tag_without_constraint1 } ] was cancelled
+    java.util.concurrent.CancellationException: Task was cancelled.
+        at androidx.work.impl.utils.futures.AbstractFuture.cancellationExceptionWithCause(AbstractFuture.java:1184)
+        at androidx.work.impl.utils.futures.AbstractFuture.getDoneValue(AbstractFuture.java:514)
+        at androidx.work.impl.utils.futures.AbstractFuture.get(AbstractFuture.java:475)
+        at androidx.work.impl.WorkerWrapper$2.run(WorkerWrapper.java:311)
+        at androidx.work.impl.utils.SerialExecutor$Task.run(SerialExecutor.java:91)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at java.lang.Thread.run(Thread.java:923)
+2023-07-22 16:44:39.681 6553-6991/com.hike.mazuma.debug D/Http: LogFull : New updated request: {reqId: 15b3d04ca7a1f377d91708b42b71df, retryClass: AnalyticsUploadRetryTask, extras: Bundle[mParcelledData.dataSize=284], priority: 100, retries: 5, minTs: 1690024479, workStatus: 4}
+2023-07-22 16:44:39.682 6553-6991/com.hike.mazuma.debug D/Http: LogFull : Deleting request {reqId: 15b3d04ca7a1f377d91708b42b71df, retryClass: AnalyticsUploadRetryTask, extras: Bundle[mParcelledData.dataSize=284], priority: 100, retries: 5, minTs: 1690024479, workStatus: 4}
+2023-07-22 16:44:39.691 6553-6989/com.hike.mazuma.debug D/Http: LogFull : Scheduling work with tag: work_tag_without_constraint0
+2023-07-22 16:44:39.692 6553-6989/com.hike.mazuma.debug D/Http: LogFull : Scheduling request in WorkManager.
+     WorkRequest id: 6867df18-0542-4888-865c-802b157768a8
+2023-07-22 16:44:39.795 10775-11005/com.hike.mazuma.debug I/IL2CPP: Locale en-US
+2023-07-22 16:44:40.003 6553-6989/com.hike.mazuma.debug D/Http: LogFull : Scheduling work with tag: work_tag_without_constraint1
+2023-07-22 16:44:40.004 6553-6989/com.hike.mazuma.debug D/Http: LogFull : Scheduling request in WorkManager.
+     WorkRequest id: 1ba0145a-60aa-45d3-92ae-a680a61a2083
+2023-07-22 16:44:40.048 6553-6992/com.hike.mazuma.debug D/Http: LogFull : doWork() called for :6867df18-0542-4888-865c-802b157768a8on thread: work-manager
+2023-07-22 16:44:40.050 6553-6992/com.hike.mazuma.debug D/Http: LogFull : Persistable request is null. Returning result success for 6867df18-0542-4888-865c-802b157768a8
+2023-07-22 16:44:40.129 10955-11019/? I/Finsky: [8608] ahjn.ch(256): Finished reading experiment flags from file [0tGUNCGIkbk4o6-fQ335kUYSKwVj4lusnHT-A5Dsy08].
+2023-07-22 16:44:40.148 10955-11019/? I/Finsky: [8608] ahjn.ch(256): Finished reading experiment flags from file [Se-xCc4LzNyh3UrKMIU2sUf-PUKz4oQEbpKZDMuaFno].
+2023-07-22 16:44:40.296 11023-11023/? I/ocess.gservice: The ClassLoaderContext is a special shared library.
+2023-07-22 16:44:40.327 6553-6858/com.hike.mazuma.debug D/Http: HttpWorker : HttpWorker
+2023-07-22 16:44:40.458 6553-6857/com.hike.mazuma.debug I/WM-WorkerWrapper: Work [ id=6867df18-0542-4888-865c-802b157768a8, tags={ com.httpmanager.work.HttpWorker, work_tag_without_constraint0 } ] was cancelled
+    java.util.concurrent.CancellationException: Task was cancelled.
+        at androidx.work.impl.utils.futures.AbstractFuture.cancellationExceptionWithCause(AbstractFuture.java:1184)
+        at androidx.work.impl.utils.futures.AbstractFuture.getDoneValue(AbstractFuture.java:514)
+        at androidx.work.impl.utils.futures.AbstractFuture.get(AbstractFuture.java:475)
+        at androidx.work.impl.WorkerWrapper$2.run(WorkerWrapper.java:311)
+        at androidx.work.impl.utils.SerialExecutor$Task.run(SerialExecutor.java:91)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at java.lang.Thread.run(Thread.java:923)
+2023-07-22 16:44:40.650 6553-6990/com.hike.mazuma.debug D/Http: LogFull : doWork() called for :1ba0145a-60aa-45d3-92ae-a680a61a2083on thread: work-manager
+2023-07-22 16:44:40.652 6553-6990/com.hike.mazuma.debug D/Http: LogFull : Persistable request is null. Returning result success for 1ba0145a-60aa-45d3-92ae-a680a61a2083
+2023-07-22 16:44:40.659 10775-10866/com.hike.mazuma.debug D/Unity: UnloadTime: 10.033307 ms
+2023-07-22 16:44:40.663 11023-11023/? D/NetworkSecurityConfig: No Network Security Config specified, using platform default
+2023-07-22 16:44:40.665 11023-11023/? D/NetworkSecurityConfig: No Network Security Config specified, using platform default
+2023-07-22 16:44:40.677 6553-6630/com.hike.mazuma.debug D/Http: HttpWorker : HttpWorker
+2023-07-22 16:44:40.690 11023-11023/? I/GservicesProvider: Gservices pushing to system: true; secure/global: true
+2023-07-22 16:44:40.700 10775-10866/com.hike.mazuma.debug D/Unity: UUID: 8f30095ad6435ba8 => c6917be9f8d87df8a36e442c3e12328d
+2023-07-22 16:44:41.093 6553-6630/com.hike.mazuma.debug I/WM-WorkerWrapper: Work [ id=1ba0145a-60aa-45d3-92ae-a680a61a2083, tags={ com.httpmanager.work.HttpWorker, work_tag_without_constraint1 } ] was cancelled
+    java.util.concurrent.CancellationException: Task was cancelled.
+        at androidx.work.impl.utils.futures.AbstractFuture.cancellationExceptionWithCause(AbstractFuture.java:1184)
+        at androidx.work.impl.utils.futures.AbstractFuture.getDoneValue(AbstractFuture.java:514)
+        at androidx.work.impl.utils.futures.AbstractFuture.get(AbstractFuture.java:475)
+        at androidx.work.impl.WorkerWrapper$2.run(WorkerWrapper.java:311)
+        at androidx.work.impl.utils.SerialExecutor$Task.run(SerialExecutor.java:91)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at java.lang.Thread.run(Thread.java:923)
+2023-07-22 16:44:41.112 6333-11054/? I/Fitness: (REDACTED) OnPackageChangedOperation got intent: %s
+2023-07-22 16:44:41.146 6333-11053/? I/Fitness: (REDACTED) FitCleanupIntentOperation received Intent %s
+2023-07-22 16:44:41.495 10775-10790/com.hike.mazuma.debug I/uma.debug:Unit: NativeAlloc concurrent copying GC freed 12383(722KB) AllocSpace objects, 2(104KB) LOS objects, 19% free, 8502KB/10MB, paused 219us total 574.852ms
+2023-07-22 16:44:41.504 6333-6380/? W/ChimeraUtils: Module com.google.android.gms.nearby_en missing resource null(0)
+2023-07-22 16:44:41.546 10955-11020/? E/Finsky: Getting early startup flag value without initialization: PhoneskyPhenotype__enable_flag_update_entry_point
+2023-07-22 16:44:41.570 6333-6380/? W/ChimeraUtils: Module com.google.android.gms.nearby_en missing resource null(0)
+2023-07-22 16:44:41.623 6333-6380/? W/ChimeraUtils: Module com.google.android.gms.nearby_en missing resource null(0)
+2023-07-22 16:44:41.656 10775-10866/com.hike.mazuma.debug W/Unity: Cannot initialize ANR watchdog - reason: java.lang.ClassNotFoundException: backtrace.io.backtrace_unity_android_plugin.BacktraceANRWatchdog
+    UnityEngine.Logger:Log(LogType, Object)
+    Backtrace.Unity.Runtime.Native.Android.NativeClient:HandleAnr()
+    Backtrace.Unity.Runtime.Native.Android.NativeClient:.ctor(BacktraceConfiguration, BacktraceBreadcrumbs, IDictionary`2, IEnumerable`1, String)
+    Backtrace.Unity.Runtime.Native.NativeClientFactory:CreateNativeClient(BacktraceConfiguration, String, BacktraceBreadcrumbs, IDictionary`2, ICollection`1)
+    Backtrace.Unity.BacktraceClient:Refresh()
+2023-07-22 16:44:41.664 10775-10866/com.hike.mazuma.debug W/Unity: Cannot initialize unhandled exception watcher - reason: java.lang.ClassNotFoundException: backtrace.io.backtrace_unity_android_plugin.BacktraceAndroidBackgroundUnhandledExceptionHandler
+    UnityEngine.Logger:Log(LogType, Object)
+    Backtrace.Unity.Runtime.Native.Android.NativeClient:.ctor(BacktraceConfiguration, BacktraceBreadcrumbs, IDictionary`2, IEnumerable`1, String)
+    Backtrace.Unity.Runtime.Native.NativeClientFactory:CreateNativeClient(BacktraceConfiguration, String, BacktraceBreadcrumbs, IDictionary`2, ICollection`1)
+    Backtrace.Unity.BacktraceClient:Refresh()
+2023-07-22 16:44:41.711 27477-27588/? I/Icing: IndexChimeraService.getServiceInterface callingPackage=com.google.android.gms componentName=AppsCorpus serviceId=36
+2023-07-22 16:44:41.959 6333-11053/? I/Fitness: (REDACTED) OnPackageChangedOperation got intent: %s
+2023-07-22 16:44:41.976 6333-11054/? I/Fitness: (REDACTED) FitCleanupIntentOperation received Intent %s
+2023-07-22 16:44:42.012 10955-10955/? I/Finsky: [2] jpe.an(730): Profiling: Starting up (0)
+2023-07-22 16:44:42.018 10955-11019/? I/Finsky: [8608] jpe.N(10): pcsi: PROCESS_START
+2023-07-22 16:44:42.062 10955-11018/? I/Finsky: [8609] lpd.g(38): Subscription detail: N/A
+2023-07-22 16:44:42.108 10955-11079/? I/TetheringManager: registerTetheringEventCallback:com.android.vending
+2023-07-22 16:44:42.112 10955-11072/? W/android.vendin: Verification of java.lang.Object kxs.b() took 111.372ms (21639.19 bytecodes/s) (44040B approximate peak alloc)
+2023-07-22 16:44:42.185 10955-11016/? W/linker: Warning: "/data/app/~~2rfX8OArLUbAvKC_oZp1PA==/com.android.vending-8CiOuM3WBm-tp8iMpjTGyg==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libcronet.114.0.5735.84.so" unused DT entry: unknown processor-specific (type 0x70000001 arg 0x0) (ignoring)
+2023-07-22 16:44:42.342 10955-11015/? I/Finsky: [8606] vut.<init>(69): vuv - Registering in memory receiver for android.intent.action.PACKAGE_ADDED and android.intent.action.PACKAGE_REMOVED
+2023-07-22 16:44:42.366 10955-11016/? I/cr_CronetLibraryLoader: Cronet version: 114.0.5735.84, arch: aarch64
+2023-07-22 16:44:42.396 27477-27477/? D/BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.feedback.internal.IFeedbackService dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+2023-07-22 16:44:42.398 27477-27477/? D/BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.feedback.internal.IFeedbackService dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+2023-07-22 16:44:42.414 10955-11018/? I/Finsky: [8609] agyr.f(50): SysUA: Disable SystemUpdateActivity, because no login account
+2023-07-22 16:44:42.426 6333-6494/? W/ChimeraUtils: Module com.google.android.gms.nearby_en missing resource null(0)
+2023-07-22 16:44:42.467 10955-11020/? W/Finsky: [8610] ixp.d(17): For unauth, use getDfeApiNonAuthenticated() instead!
+2023-07-22 16:44:42.469 10955-11097/? I/Finsky: [8630] vug.run(335): SysCUA: Set {com.android.vending/com.google.android.finsky.systemcomponentupdateui.common.SystemComponentUpdateActivity} enabled state to 0
+2023-07-22 16:44:42.490 10955-11019/? W/Settings: Setting download_manager_max_bytes_over_mobile has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+2023-07-22 16:44:42.504 10955-11072/? I/Finsky: [8619] lml.run(150): SysUA: Set SystemUpdateActivity enabled state to 2
+2023-07-22 16:44:42.516 10955-11019/? I/Finsky: [8608] vbo.i(33): SettingNotFoundException, fall through to G.downloadBytesOverMobileMaximum
+2023-07-22 16:44:42.516 10955-11019/? W/Settings: Setting download_manager_recommended_max_bytes_over_mobile has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+2023-07-22 16:44:42.520 10955-11019/? I/Finsky: [8608] vbo.h(31): SettingNotFoundException, fall through to G.downloadBytesOverMobileRecommended
+2023-07-22 16:44:42.524 10955-11019/? I/Finsky: [8608] alzy.d(7): registerListener
+2023-07-22 16:44:42.533 10955-11019/? I/Finsky: [8608] alzy.d(7): registerListener
+2023-07-22 16:44:42.533 10955-11082/? W/android.vendin: Accessing hidden field Ljava/util/Collections$SynchronizedCollection;->mutex:Ljava/lang/Object; (greylist-max-o, reflection, denied)
+2023-07-22 16:44:42.549 10955-11082/? W/android.vendin: Accessing hidden method Ljava/util/Collections$SynchronizedSet;-><init>(Ljava/util/Set;Ljava/lang/Object;)V (greylist-max-o, reflection, denied)
+2023-07-22 16:44:42.549 10955-11082/? W/android.vendin: Accessing hidden method Ljava/util/Collections$SynchronizedCollection;-><init>(Ljava/util/Collection;Ljava/lang/Object;)V (greylist-max-o, reflection, denied)
+2023-07-22 16:44:42.567 10955-11019/? I/Finsky: [8608] suk.r(77): Enqueuing libraries load for 0
+2023-07-22 16:44:42.582 10955-11016/? I/Finsky: [8607] agje.<init>(93): VerifyApps: Setup app restrictions monitor
+2023-07-22 16:44:42.588 27477-27489/? I/gle.android.gm: Background young concurrent copying GC freed 15426(970KB) AllocSpace objects, 3(124KB) LOS objects, 4% free, 15MB/16MB, paused 243us total 1.007s
+2023-07-22 16:44:42.592 6333-6494/? W/ChimeraUtils: Module com.google.android.gms.nearby_en missing resource null(0)
+2023-07-22 16:44:42.637 10955-11099/? I/Finsky: [8631] suk.s(14): Starting libraries load for 0
+2023-07-22 16:44:42.883 27477-19110/? W/Icing: Failed to get Lockbox signed-in status: java.util.concurrent.TimeoutException: Timed out waiting for Task
+2023-07-22 16:44:42.893 10955-11016/? I/Finsky: [8607] agpi.a(32): VerifyApps: Device wide unknown source restriction updated
+2023-07-22 16:44:42.895 27477-19110/? W/Icing: getSignedInAccountName: Falling back to default value
+2023-07-22 16:44:42.904 10955-11078/? I/Finsky: [8624] nz.run(136): Set UnhibernateActivity enabled state to 1
+2023-07-22 16:44:42.904 27477-19110/? W/Icing: No valid account for uploading user actions
+2023-07-22 16:44:42.923 6333-6333/? D/BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.icing.LIGHTWEIGHT_INDEX_SERVICE dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+2023-07-22 16:44:42.923 6333-6333/? D/BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.icing.LIGHTWEIGHT_INDEX_SERVICE dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+2023-07-22 16:44:42.928 6333-6494/? W/ChimeraUtils: Module com.google.android.gms.nearby_en missing resource null(0)
+2023-07-22 16:44:42.958 10955-11021/? I/Finsky: [8611] rrm.<init>(46): Item store provider started.
+2023-07-22 16:44:43.093 10955-11099/? I/Finsky: [8631] suk.s(354): Finished loading 0 libraries.
+2023-07-22 16:44:43.101 27477-27588/? I/Icing: IndexChimeraService.getServiceInterface callingPackage=com.google.android.gms componentName=null serviceId=30
+2023-07-22 16:44:43.111 27477-27477/? D/BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.safetynet.service.START pkg=com.google.android.gms }
+2023-07-22 16:44:43.111 27477-27477/? D/BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.safetynet.service.START pkg=com.google.android.gms }
+2023-07-22 16:44:43.137 27477-19110/? I/Icing: Usage reports ok 1, Failed Usage reports 0, indexed 0, rejected 0
+2023-07-22 16:44:43.142 10955-10955/? I/Finsky: [2] jaz.h(312): This process start was not selected for Play memory metrics collection.
+2023-07-22 16:44:43.198 10775-10775/com.hike.mazuma.debug I/PlayCore: UID: [10222]  PID: [10775] AssetPackServiceImpl : ServiceConnectionImpl.onServiceConnected(ComponentInfo{com.android.vending/com.google.android.finsky.assetmoduleservice.AssetModuleService})
+2023-07-22 16:44:43.208 10955-11122/? I/Finsky: [8650] alzy.d(7): registerListener
+2023-07-22 16:44:43.216 10955-11122/? I/Finsky: [8650] ssx.n(6): getDownloads()
+2023-07-22 16:44:43.221 10955-11000/? D/TelephonyRegistryManager: onSubscriptionsChangedListener callback received.
+2023-07-22 16:44:43.235 10775-10900/com.hike.mazuma.debug I/PlayCore: UID: [10222]  PID: [10775] AssetPackServiceImpl : linkToDeath
+2023-07-22 16:44:43.294 10955-10955/? I/Finsky: [2] qhf.A(24): Installer: Attempting to start installer
+2023-07-22 16:44:43.310 10955-10955/? I/Finsky: [2] alzy.d(7): registerListener
+2023-07-22 16:44:43.381 10955-10955/? I/Finsky: [2] aafb.<init>(263): Initializing pausers from value store.
+2023-07-22 16:44:43.385 10955-10955/? I/Finsky: [2] aafb.<init>(320): Callers (Pausers) in value store: []
+2023-07-22 16:44:43.408 10955-11000/? I/Finsky: [8601] jzk.i(18): requestDownloadInfo() for package: com.hike.mazuma.debug
+2023-07-22 16:44:43.413 10955-10955/? I/Finsky: [2] lpc.onSubscriptionsChanged(6): onSubscriptionsChanged
+2023-07-22 16:44:43.468 10955-10995/? I/android.vendin: Background concurrent copying GC freed 30753(1954KB) AllocSpace objects, 15(364KB) LOS objects, 24% free, 4873KB/6497KB, paused 26.823ms total 1.434s
+2023-07-22 16:44:43.508 10955-11000/? W/Finsky: [8601] jzq.c(71): Unauthenticated asset module requests are not allowed
+2023-07-22 16:44:43.513 10955-11000/? I/Finsky: [8601] jzk.c(11): getSessionStates for package: com.hike.mazuma.debug
+2023-07-22 16:44:43.525 10955-11000/? W/Finsky: [8601] jzq.c(71): Unauthenticated asset module requests are not allowed
+2023-07-22 16:44:43.527 10955-11000/? I/Finsky: [8601] jzk.i(18): requestDownloadInfo() for package: com.hike.mazuma.debug
+2023-07-22 16:44:43.534 10955-11000/? W/Finsky: [8601] jzq.c(71): Unauthenticated asset module requests are not allowed
+2023-07-22 16:44:43.554 27477-27489/? I/gle.android.gm: Background concurrent copying GC freed 31952(1857KB) AllocSpace objects, 4(144KB) LOS objects, 12% free, 14MB/16MB, paused 223us total 616.944ms
+2023-07-22 16:44:43.682 10955-11122/? I/Finsky: [8650] qy.run(78): Initialized AssetModuleDownloader.
+2023-07-22 16:44:43.722 11125-11125/? I/e.process.gapp: The ClassLoaderContext is a special shared library.
+2023-07-22 16:44:43.723 10775-10795/com.hike.mazuma.debug I/PlayCore: UID: [10222]  PID: [10775] AssetPackServiceImpl : Leaving the connection open for other ongoing calls.
+2023-07-22 16:44:43.723 10775-10797/com.hike.mazuma.debug I/PlayCore: UID: [10222]  PID: [10775] AssetPackServiceImpl : Leaving the connection open for other ongoing calls.
+2023-07-22 16:44:43.724 10775-10795/com.hike.mazuma.debug E/PlayCore: UID: [10222]  PID: [10775] AssetPackServiceImpl : onError(-5)
+2023-07-22 16:44:43.724 10775-10797/com.hike.mazuma.debug E/PlayCore: UID: [10222]  PID: [10775] AssetPackServiceImpl : onError(-5)
+2023-07-22 16:44:43.732 10775-10899/com.hike.mazuma.debug W/PlayCore: UID: [10222]  PID: [10775] AssetPackManager : Could not sync active asset packs. com.google.android.play.core.assetpacks.AssetPackException: Asset Pack Download Error(-5): The Asset Delivery API is not available. (https://developer.android.com/reference/com/google/android/play/core/assetpacks/model/AssetPackErrorCode.html#API_NOT_AVAILABLE)
+2023-07-22 16:44:43.752 10775-10797/com.hike.mazuma.debug E/PlayCore: UID: [10222]  PID: [10775] AssetPackServiceImpl : onError(-5)
+2023-07-22 16:44:43.754 10775-10900/com.hike.mazuma.debug I/PlayCore: UID: [10222]  PID: [10775] AssetPackServiceImpl : Unbind from service.
+2023-07-22 16:44:43.984 11125-11125/? D/NetworkSecurityConfig: No Network Security Config specified, using platform default
+2023-07-22 16:44:43.985 11125-11125/? D/NetworkSecurityConfig: No Network Security Config specified, using platform default
+2023-07-22 16:44:44.300 6553-6553/com.hike.mazuma.debug D/AppStateManager: onActivityStarted called with activity: RushGameUnityActivity
+2023-07-22 16:44:44.303 6553-6553/com.hike.mazuma.debug D/AppStateManager: checkRestart called for activity: RushGameUnityActivity, mCurrentActivityTracked: null
+2023-07-22 16:44:44.303 6553-6553/com.hike.mazuma.debug D/AppStateManager: activityRestartLaunch called for activity: RushGameUnityActivity
+2023-07-22 16:44:44.304 6553-6553/com.hike.mazuma.debug D/RushAppState: moveToState called. Prev state: BACKGROUNDED, Next state: RESUMED
+2023-07-22 16:44:44.306 27477-19110/? W/Icing: No valid account for uploading user actions
+2023-07-22 16:44:44.306 6553-6553/com.hike.mazuma.debug D/HikeLandAppStateListener: App wide state changed to RESUMED
+2023-07-22 16:44:44.318 11125-11125/? I/GoogleHttpClient: GMS http client unavailable, use old client
+2023-07-22 16:44:44.411 11125-11125/? I/CarUiInstaller: CarUiInstaller started for com.google.android.gsf
+2023-07-22 16:44:44.415 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:44.415 6553-6646/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:44.417 6553-6646/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"app_infra","o":"app_open","fa":"","g":"rewards_enabled","src":"","vs":"yes","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024484416,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024484}
+2023-07-22 16:44:44.431 6553-10392/com.hike.mazuma.debug D/RushAnalytics: Delete the old files!
+2023-07-22 16:44:44.520 6553-10392/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :0bytes
+2023-07-22 16:44:44.560 27477-19110/? I/Icing: Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0
+2023-07-22 16:44:44.649 27477-19110/? I/Icing: Indexing com.google.android.gms-apps from com.google.android.gms
+2023-07-22 16:44:44.677 10955-11124/? I/Finsky: [8652] qfe.apply(857): Installer: Registering atomic install listeners with package installer
+2023-07-22 16:44:44.679 10955-11131/? I/Finsky: [8653] pgj.a(161): Installer: Checking for orphaned groups
+2023-07-22 16:44:44.716 10955-11131/? I/Finsky: [8653] ssx.n(6): getDownloads()
+2023-07-22 16:44:44.776 27477-19110/? I/Icing: Indexing done com.google.android.gms-apps
+2023-07-22 16:44:44.782 27477-19110/? I/Icing: Indexing com.google.android.gms-apps from com.google.android.gms
+2023-07-22 16:44:44.784 27477-19110/? I/Icing: Indexing done com.google.android.gms-apps
+2023-07-22 16:44:44.898 10775-10790/com.hike.mazuma.debug I/uma.debug:Unit: NativeAlloc concurrent copying GC freed 8083(1149KB) AllocSpace objects, 0(0B) LOS objects, 18% free, 8825KB/10MB, paused 229us total 438.870ms
+2023-07-22 16:44:44.899 10775-10791/com.hike.mazuma.debug W/JavaBinder: BinderProxy is being destroyed but the application did not call unlinkToDeath to unlink all of its death recipients beforehand.  Releasing leaked death recipient: com.google.android.play.core.internal.zzai
+2023-07-22 16:44:44.902 10775-10791/com.hike.mazuma.debug I/BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+2023-07-22 16:44:44.975 10542-10565/? I/PermissionControllerServiceImpl: Updating user sensitive for uid 10222
+2023-07-22 16:44:44.984 10542-10565/? I/PermissionControllerServiceImpl: Updating user sensitive for uid 10222
+2023-07-22 16:44:45.000 27477-27477/? D/BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.safetynet.service.START pkg=com.google.android.gms }
+2023-07-22 16:44:45.017 10775-10866/com.hike.mazuma.debug D/Unity: Sensor :        Accelerometer ( 1) ; 0.001200 / 0.00s ; ACCELEROMETER / lis2hh12 
+2023-07-22 16:44:45.168 10775-10866/com.hike.mazuma.debug D/Unity: Choreographer available: Enabling VSYNC timing
+2023-07-22 16:44:45.177 10775-10866/com.hike.mazuma.debug I/PlayCore: UID: [10222]  PID: [10775] AssetPackServiceListenerRegistry : unregisterListener
+2023-07-22 16:44:45.782 6553-6618/com.hike.mazuma.debug D/TransportRuntime.CctTransportBackend: Making request to: https://firebaselogging-pa.googleapis.com/v1/firelog/legacy/batchlog
+2023-07-22 16:44:45.823 10775-10790/com.hike.mazuma.debug I/uma.debug:Unit: Background young concurrent copying GC freed 13958(1845KB) AllocSpace objects, 0(0B) LOS objects, 4% free, 10MB/10MB, paused 189us total 291.544ms
+2023-07-22 16:44:46.094 10775-10790/com.hike.mazuma.debug I/uma.debug:Unit: Background concurrent copying GC freed 37824(2101KB) AllocSpace objects, 5(228KB) LOS objects, 18% free, 8953KB/10MB, paused 220us total 250.625ms
+2023-07-22 16:44:46.348 6333-6333/? D/BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.presencemanager.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+2023-07-22 16:44:46.354 6333-6333/? D/BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.presencemanager.service.INTERNAL_IDENTITY dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+2023-07-22 16:44:47.444 27477-27477/? D/BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+2023-07-22 16:44:48.556 6553-6618/com.hike.mazuma.debug I/TransportRuntime.CctTransportBackend: Status Code: 200
+2023-07-22 16:44:48.557 6553-6618/com.hike.mazuma.debug I/TransportRuntime.CctTransportBackend: Content-Type: application/json; charset=UTF-8
+2023-07-22 16:44:48.557 6553-6618/com.hike.mazuma.debug I/TransportRuntime.CctTransportBackend: Content-Encoding: gzip
+2023-07-22 16:44:49.628 10775-10790/com.hike.mazuma.debug I/uma.debug:Unit: NativeAlloc concurrent copying GC freed 2546(104KB) AllocSpace objects, 2(128KB) LOS objects, 18% free, 8850KB/10MB, paused 261us total 191.707ms
+2023-07-22 16:44:51.128 10775-10858/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:51.129 10775-10858/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:51.131 10775-10858/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"Inside makeUnityFullScreen. isHappyCase false","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024491129,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024491}
+2023-07-22 16:44:51.132 10775-10858/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:51.133 10775-10858/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:51.133 10775-10868/com.hike.mazuma.debug D/RushAnalytics: Delete the old files!
+2023-07-22 16:44:51.135 10775-10858/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"Unity is fullscreen already. isHappyCase false","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024491133,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024491}
+2023-07-22 16:44:51.136 10775-10858/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:51.136 10775-10858/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:51.138 10775-10858/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"unity load event not received within 15 secs","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024491136,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024491}
+2023-07-22 16:44:51.140 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :0bytes
+2023-07-22 16:44:51.143 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :598bytes
+2023-07-22 16:44:51.146 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :1197bytes
+2023-07-22 16:44:51.433 18158-18158/? I/AppBase: AppBase.onTrimMemory():445 onTrimMemory(): 10
+2023-07-22 16:44:51.460 6553-6673/com.hike.mazuma.debug I/GED: ged_boost_gpu_freq, level 100, eOrigin 2, final_idx 2, oppidx_max 2, oppidx_min 0
+2023-07-22 16:44:51.462 18158-18158/? I/GoogleInputMethodService: GoogleInputMethodService.onTrimMemory():4558 onTrimMemory(): 10
+2023-07-22 16:44:52.955 10775-10866/com.hike.mazuma.debug W/Unity: DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+2023-07-22 16:44:52.987 10775-10866/com.hike.mazuma.debug D/RushUnityReceiver: RushUnityReceiver.receiveData  called with json {"type":2,"data":{"p":"client_user_action","o":"click_skip_game_ftue","fa":"game_ftue_screen","src":"rush_homescreen","ra":"stage_1","c":"game_v2","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7.0,"v":"non_vip","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}"}}
+2023-07-22 16:44:52.988 10775-10866/com.hike.mazuma.debug D/RushUnityManager: onDataReceivedFromUnity of type 2 with data {"p":"client_user_action","o":"click_skip_game_ftue","fa":"game_ftue_screen","src":"rush_homescreen","ra":"stage_1","c":"game_v2","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7,"v":"non_vip","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}"}
+2023-07-22 16:44:52.989 10775-10866/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:52.989 10775-10866/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:52.990 10775-10866/com.hike.mazuma.debug D/RushAnalytics: {"p":"client_user_action","o":"click_skip_game_ftue","fa":"game_ftue_screen","src":"rush_homescreen","ra":"stage_1","c":"game_v2","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7,"v":"non_vip","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024492989,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","k":"rush","uk":"rush","ver":"v2","ts":1690024492}
+2023-07-22 16:44:52.993 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :1794bytes
+2023-07-22 16:44:54.078 10775-10866/com.hike.mazuma.debug D/RushUnityReceiver: RushUnityReceiver.receiveData  called with json {"type":5}
+2023-07-22 16:44:54.078 10775-10866/com.hike.mazuma.debug D/RushUnityManager: onDataReceivedFromUnity of type 5 with data null
+2023-07-22 16:44:54.078 10775-10866/com.hike.mazuma.debug D/FirebaseAnalyticsManager: logging firebase Event ludo_Screen_Loaded with bundle {}
+2023-07-22 16:44:54.080 10775-10775/com.hike.mazuma.debug D/PerfLogger: PERF feature unity_launch flow rush_unityReadyTime_gameLevel has latency 19606
+2023-07-22 16:44:54.080 10775-10775/com.hike.mazuma.debug D/PerfLogger: PERF feature unity_launch flow rush_unityReadyTime_gameLevel_from_play_button_click has latency 23153
+2023-07-22 16:44:54.179 27477-27477/? D/BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+2023-07-22 16:44:54.179 27477-27477/? D/BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+2023-07-22 16:44:54.180 10775-10858/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:54.180 10775-10858/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:54.182 10775-10858/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"Inside makeUnityFullScreen. isHappyCase true","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024494180,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024494}
+2023-07-22 16:44:54.184 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :2631bytes
+2023-07-22 16:44:54.186 10775-10858/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:54.186 10775-10858/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:54.188 10775-10858/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"Unity is fullscreen already. isHappyCase true","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024494186,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024494}
+2023-07-22 16:44:54.189 10775-10858/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:54.189 10775-10858/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:54.191 10775-10858/com.hike.mazuma.debug D/RushAnalytics: {"uk":"rush","k":"rush","p":"client_bg_event","c":"unity_alive","o":"unity_alive","g":"Unity load time: 19606, from play click: 23153, application time: 356 isOptimized: false isV2Optimized: false","src":"","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024494189,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024494}
+2023-07-22 16:44:54.193 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :3228bytes
+2023-07-22 16:44:54.194 10775-10866/com.hike.mazuma.debug D/RushUnityReceiver: RushUnityReceiver.receiveData  called with json {"type":2,"data":{"p":"client_bg_event","o":"unity_time_tracking_v2","fa":"unity_time_tracking_v2","vs":"TOO_LARGE_{\"UnityIsReady\":{\"duration\":6864.104,\"startTime\":\"22/07/2023 16:44:34.829\",\"endTime\":\"22/07/2023 16:44:41.693\",\"deviceStatus\":{\"battery\" :85,\"TotalMemKernal\":2801,\"ThresholdMem\":216,\"TotalAvailMem\":545,\"IsLowMem\":false}},\"NativeToUnityFirstCall\":{\"duration\":10592.075,\"startTime\":\"22/07/2023 16:44:34.829\",\"endTime\":\"22/07/2023 16:44:45.421\",\"deviceStatus\":{\"battery\" :85,\"TotalMemKernal\":2801,\"ThresholdMem\":216,\"TotalAvailMem\":545,\"IsLowMem\":false}},\"ParsingData\":{\"duration\":39.574,\"startTime\":\"22/07/2023 16:44:45.426\",\"endTime\":\"22/07/2023 16:44:45.466\",\"deviceStatus\":{\"battery\" :85,\"TotalMemKernal\":2801,\"ThresholdMem\":216,\"TotalAvailMem\":545,\"IsLowMem\":false}},\"LoadingGameScene\":{\"duration\":7499.398,\"startTime\":\"22/07/2023 16:44:45.466\",\"endTime\":\"22/07/2023 16:44:52.966\",\"deviceStatus\":{\"battery\" :85,\"TotalMemKernal\":2801,\"ThresholdMem\":216,\"TotalAvailMem\":545,\"IsLowMem\":false}},\"CompleteUnityLoading\":{\"duration\":19218.112,\"startTime\":","src":"loading_analysis","ra":"LegacyLoading","c":"unity_time_tracking_v2","g":"ludo","s":"gt:table1678871131835","t":"YOU5dzukYGdrl0fE:22/07/2023 16:44:41.681","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7.0,"v":"non_vip","cs":36,"sec":"{}"}}
+2023-07-22 16:44:54.196 10775-10866/com.hike.mazuma.debug D/RushUnityManager: onDataReceivedFromUnity of type 2 with data {"p":"client_bg_event","o":"unity_time_tracking_v2","fa":"unity_time_tracking_v2","vs":"TOO_LARGE_{\"UnityIsReady\":{\"duration\":6864.104,\"startTime\":\"22\/07\/2023 16:44:34.829\",\"endTime\":\"22\/07\/2023 16:44:41.693\",\"deviceStatus\":{\"battery\" :85,\"TotalMemKernal\":2801,\"ThresholdMem\":216,\"TotalAvailMem\":545,\"IsLowMem\":false}},\"NativeToUnityFirstCall\":{\"duration\":10592.075,\"startTime\":\"22\/07\/2023 16:44:34.829\",\"endTime\":\"22\/07\/2023 16:44:45.421\",\"deviceStatus\":{\"battery\" :85,\"TotalMemKernal\":2801,\"ThresholdMem\":216,\"TotalAvailMem\":545,\"IsLowMem\":false}},\"ParsingData\":{\"duration\":39.574,\"startTime\":\"22\/07\/2023 16:44:45.426\",\"endTime\":\"22\/07\/2023 16:44:45.466\",\"deviceStatus\":{\"battery\" :85,\"TotalMemKernal\":2801,\"ThresholdMem\":216,\"TotalAvailMem\":545,\"IsLowMem\":false}},\"LoadingGameScene\":{\"duration\":7499.398,\"startTime\":\"22\/07\/2023 16:44:45.466\",\"endTime\":\"22\/07\/2023 16:44:52.966\",\"deviceStatus\":{\"battery\" :85,\"TotalMemKernal\":2801,\"ThresholdMem\":216,\"TotalAvailMem\":545,\"IsLowMem\":false}},\"CompleteUnityLoading\":{\"duration\":19218.112,\"startTime\":","src":"loading_analysis","ra":"LegacyLoading","c":"unity_time_tracking_v2","g":"ludo","s":"gt:table1678871131835","t":"YOU5dzukYGdrl0fE:22\/07\/2023 16:44:41.681","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7,"v":"non_vip","cs":36,"sec":"{}"}
+2023-07-22 16:44:54.196 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :3826bytes
+2023-07-22 16:44:54.198 10775-10866/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:54.198 10775-10866/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:54.200 10775-10866/com.hike.mazuma.debug D/RushAnalytics: {"p":"client_bg_event","o":"unity_time_tracking_v2","fa":"unity_time_tracking_v2","vs":"TOO_LARGE_{\"UnityIsReady\":{\"duration\":6864.104,\"startTime\":\"22\/07\/2023 16:44:34.829\",\"endTime\":\"22\/07\/2023 16:44:41.693\",\"deviceStatus\":{\"battery\" :85,\"TotalMemKernal\":2801,\"ThresholdMem\":216,\"TotalAvailMem\":545,\"IsLowMem\":false}},\"NativeToUnityFirstCall\":{\"duration\":10592.075,\"startTime\":\"22\/07\/2023 16:44:34.829\",\"endTime\":\"22\/07\/2023 16:44:45.421\",\"deviceStatus\":{\"battery\" :85,\"TotalMemKernal\":2801,\"ThresholdMem\":216,\"TotalAvailMem\":545,\"IsLowMem\":false}},\"ParsingData\":{\"duration\":39.574,\"startTime\":\"22\/07\/2023 16:44:45.426\",\"endTime\":\"22\/07\/2023 16:44:45.466\",\"deviceStatus\":{\"battery\" :85,\"TotalMemKernal\":2801,\"ThresholdMem\":216,\"TotalAvailMem\":545,\"IsLowMem\":false}},\"LoadingGameScene\":{\"duration\":7499.398,\"startTime\":\"22\/07\/2023 16:44:45.466\",\"endTime\":\"22\/07\/2023 16:44:52.966\",\"deviceStatus\":{\"battery\" :85,\"TotalMemKernal\":2801,\"ThresholdMem\":216,\"TotalAvailMem\":545,\"IsLowMem\":false}},\"CompleteUnityLoading\":{\"duration\":19218.112,\"startTime\":","src":"loading_analysis","ra":"LegacyLoading","c":"unity_time_tracking_v2","g":"ludo","s":"gt:table1678871131835","t":"YOU5dzukYGdrl0fE:22\/07\/2023 16:44:41.681","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7,"v":"non_vip","cs":36,"sec":"{}","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024494198,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","k":"rush","uk":"rush","ver":"v2","ts":1690024494}
+2023-07-22 16:44:54.204 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :4488bytes
+2023-07-22 16:44:54.231 10775-10866/com.hike.mazuma.debug D/RushUnityReceiver: RushUnityReceiver.receiveData  called with json {"type":2,"data":{"p":"client_bg_event","o":"game_match_making_server_connection_started","fa":"match_making_screen","b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7.0,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}"}}
+2023-07-22 16:44:54.232 10775-10866/com.hike.mazuma.debug D/RushUnityManager: onDataReceivedFromUnity of type 2 with data {"p":"client_bg_event","o":"game_match_making_server_connection_started","fa":"match_making_screen","b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}"}
+2023-07-22 16:44:54.233 10775-10866/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:54.233 10775-10866/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:54.234 10775-10866/com.hike.mazuma.debug D/RushAnalytics: {"p":"client_bg_event","o":"game_match_making_server_connection_started","fa":"match_making_screen","b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024494233,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","k":"rush","uk":"rush","ver":"v2","ts":1690024494}
+2023-07-22 16:44:54.236 10775-10866/com.hike.mazuma.debug D/RushUnityReceiver: RushUnityReceiver.receiveData  called with json {"type":7,"data":{"gameId":"ludo","mmId":"MM-cbd1805e-2a77-4933-8312-06c88a98c445"}}
+2023-07-22 16:44:54.236 10775-10866/com.hike.mazuma.debug D/RushUnityManager: onDataReceivedFromUnity of type 7 with data {"gameId":"ludo","mmId":"MM-cbd1805e-2a77-4933-8312-06c88a98c445"}
+2023-07-22 16:44:54.236 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :6347bytes
+2023-07-22 16:44:54.236 10775-10866/com.hike.mazuma.debug D/CRASH_FUNNEL: PRE-SENDING MM_ID received is MM-cbd1805e-2a77-4933-8312-06c88a98c445
+2023-07-22 16:44:54.240 10775-10866/com.hike.mazuma.debug D/FirebaseAnalyticsManager: logging firebase Event ludo_MM_Started_MM-cbd1805e-2a77-4933-8312-06c88a98c445 with bundle {}
+2023-07-22 16:44:54.247 6553-6553/com.hike.mazuma.debug D/CRASH_FUNNEL: MMID received is MM-cbd1805e-2a77-4933-8312-06c88a98c445
+2023-07-22 16:44:54.256 10775-10864/com.hike.mazuma.debug E/FA: Name must consist of letters, digits or _ (underscores). Type, name: event, ludo_MM_Started_MM-cbd1805e-2a77-4933-8312-06c88a98c445
+2023-07-22 16:44:54.256 10775-10864/com.hike.mazuma.debug E/FA: Invalid public event name. Event will not be logged (FE): ludo_MM_Started_MM-cbd1805e-2a77-4933-8312-06c88a98c445
+2023-07-22 16:44:54.507 10775-10790/com.hike.mazuma.debug I/uma.debug:Unit: NativeAlloc concurrent copying GC freed 7592(753KB) AllocSpace objects, 8(160KB) LOS objects, 18% free, 8881KB/10MB, paused 168us total 156.880ms
+2023-07-22 16:44:54.739 10775-10866/com.hike.mazuma.debug D/RushUnityReceiver: RushUnityReceiver.receiveData  called with json {"type":2,"data":{"p":"client_bg_event","o":"game_match_making_server_secure_connection_started","fa":"match_making_screen","b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7.0,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}"}}
+2023-07-22 16:44:54.740 10775-10866/com.hike.mazuma.debug D/RushUnityManager: onDataReceivedFromUnity of type 2 with data {"p":"client_bg_event","o":"game_match_making_server_secure_connection_started","fa":"match_making_screen","b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}"}
+2023-07-22 16:44:54.740 10775-10866/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:54.740 10775-10866/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:54.742 10775-10866/com.hike.mazuma.debug D/RushAnalytics: {"p":"client_bg_event","o":"game_match_making_server_secure_connection_started","fa":"match_making_screen","b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024494740,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","k":"rush","uk":"rush","ver":"v2","ts":1690024494}
+2023-07-22 16:44:54.744 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :7268bytes
+2023-07-22 16:44:54.744 10775-10866/com.hike.mazuma.debug D/RushUnityReceiver: RushUnityReceiver.receiveData  called with json {"type":2,"data":{"p":"client_bg_event","o":"game_match_making_server_connection_completed","fa":"match_making_screen","vi":5,"ra":"success","b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7.0,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}"}}
+2023-07-22 16:44:54.745 10775-10866/com.hike.mazuma.debug D/RushUnityManager: onDataReceivedFromUnity of type 2 with data {"p":"client_bg_event","o":"game_match_making_server_connection_completed","fa":"match_making_screen","vi":5,"ra":"success","b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}"}
+2023-07-22 16:44:54.745 10775-10866/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:54.745 10775-10866/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:54.747 10775-10866/com.hike.mazuma.debug D/RushAnalytics: {"p":"client_bg_event","o":"game_match_making_server_connection_completed","fa":"match_making_screen","vi":5,"ra":"success","b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024494745,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","k":"rush","uk":"rush","ver":"v2","ts":1690024494}
+2023-07-22 16:44:54.750 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :8196bytes
+2023-07-22 16:44:55.084 10775-11215/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:55.084 10775-11215/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:55.087 10775-11215/com.hike.mazuma.debug D/RushAnalytics: {"k":"eng_perf","uk":"eng_perf","p":"unity_launch","c":"rush_unityReadyTime_gameLevel","o":"HikeApplication_onCreate_unity_ludo","vs":"{\"isOptimized\":false,\"isV2Optimized\":false}","vi":19606,"ser":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","dt":"vivo::vivo 1904","s":1690024495081,"ra":"default_on","d":"CASH_APP","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024495084,"av":"android-1.0.631.CDF","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024495}
+2023-07-22 16:44:55.089 10775-11216/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:55.090 10775-11216/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:55.093 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :9141bytes
+2023-07-22 16:44:55.093 10775-11216/com.hike.mazuma.debug D/RushAnalytics: {"k":"eng_perf","uk":"eng_perf","p":"unity_launch","c":"rush_unityReadyTime_gameLevel_from_play_button_click","o":"HikeApplication_onCreate_unity_ludo","vs":"{\"isOptimized\":false,\"isV2Optimized\":false}","vi":23153,"ser":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","dt":"vivo::vivo 1904","s":1690024495083,"ra":"default_on","d":"CASH_APP","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","fu":"YOU5dzukYGdrl0fE","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024495091,"av":"android-1.0.631.CDF","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","f":"f06f08ac-ed67-4b1a-8163-7fd894a31a91","ver":"v2","ts":1690024495}
+2023-07-22 16:44:55.096 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :9805bytes
+2023-07-22 16:44:55.158 10775-10866/com.hike.mazuma.debug D/Unity: ANativeWindow: (720/1544) RequestedResolution: (0/0) RenderingResolution: (0/0) EGLSurface: (720/1544)
+2023-07-22 16:44:55.309 10775-10866/com.hike.mazuma.debug D/RushUnityReceiver: RushUnityReceiver.receiveData  called with json {"type":2,"data":{"p":"client_bg_event","o":"game_match_making_login_started","fa":"match_making_screen","b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7.0,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}"}}
+2023-07-22 16:44:55.310 10775-10866/com.hike.mazuma.debug D/RushUnityManager: onDataReceivedFromUnity of type 2 with data {"p":"client_bg_event","o":"game_match_making_login_started","fa":"match_making_screen","b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}"}
+2023-07-22 16:44:55.310 10775-10866/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:55.310 10775-10866/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:55.312 10775-10866/com.hike.mazuma.debug D/RushAnalytics: {"p":"client_bg_event","o":"game_match_making_login_started","fa":"match_making_screen","b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024495310,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","k":"rush","uk":"rush","ver":"v2","ts":1690024495}
+2023-07-22 16:44:55.314 10775-10866/com.hike.mazuma.debug D/RushUnityReceiver: RushUnityReceiver.receiveData  called with json {"type":2,"data":{"p":"client_bg_event","o":"game_match_making_server_secure_connection_completed","fa":"match_making_screen","vi":5,"ra":"success","b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7.0,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}"}}
+2023-07-22 16:44:55.314 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :10492bytes
+2023-07-22 16:44:55.315 10775-10866/com.hike.mazuma.debug D/RushUnityManager: onDataReceivedFromUnity of type 2 with data {"p":"client_bg_event","o":"game_match_making_server_secure_connection_completed","fa":"match_making_screen","vi":5,"ra":"success","b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}"}
+2023-07-22 16:44:55.316 10775-10866/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:55.316 10775-10866/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:55.318 10775-10866/com.hike.mazuma.debug D/RushAnalytics: {"p":"client_bg_event","o":"game_match_making_server_secure_connection_completed","fa":"match_making_screen","vi":5,"ra":"success","b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024495316,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","k":"rush","uk":"rush","ver":"v2","ts":1690024495}
+2023-07-22 16:44:55.321 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :11401bytes
+2023-07-22 16:44:55.475 10775-10866/com.hike.mazuma.debug D/RushUnityReceiver: RushUnityReceiver.receiveData  called with json {"type":2,"data":{"p":"client_ui_render","o":"game_match_making_started","fa":"match_making_screen","vi":13,"ser":7.0,"b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7.0,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}"}}
+2023-07-22 16:44:55.476 10775-10866/com.hike.mazuma.debug D/RushUnityManager: onDataReceivedFromUnity of type 2 with data {"p":"client_ui_render","o":"game_match_making_started","fa":"match_making_screen","vi":13,"ser":7,"b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}"}
+2023-07-22 16:44:55.476 10775-10866/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:55.476 10775-10866/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:55.477 10775-10866/com.hike.mazuma.debug D/RushAnalytics: {"p":"client_ui_render","o":"game_match_making_started","fa":"match_making_screen","vi":13,"ser":7,"b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024495476,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","k":"rush","uk":"rush","ver":"v2","ts":1690024495}
+2023-07-22 16:44:55.481 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :12353bytes
+2023-07-22 16:44:55.496 10775-10866/com.hike.mazuma.debug D/RushUnityReceiver: RushUnityReceiver.receiveData  called with json {"type":2,"data":{"p":"client_bg_event","o":"game_match_making_login_completed","fa":"match_making_screen","vi":186,"ra":"success","b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7.0,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}"}}
+2023-07-22 16:44:55.497 10775-10866/com.hike.mazuma.debug D/RushUnityManager: onDataReceivedFromUnity of type 2 with data {"p":"client_bg_event","o":"game_match_making_login_completed","fa":"match_making_screen","vi":186,"ra":"success","b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}"}
+2023-07-22 16:44:55.497 10775-10866/com.hike.mazuma.debug I/HikeDeviceManager: returning deviceId as 63ee227a-4c9b-402d-8d48-adf4e13744b7
+2023-07-22 16:44:55.497 10775-10866/com.hike.mazuma.debug I/HikeDeviceManager: returning secureId as 8f30095ad6435ba8
+2023-07-22 16:44:55.499 10775-10866/com.hike.mazuma.debug D/RushAnalytics: {"p":"client_bg_event","o":"game_match_making_login_completed","fa":"match_making_screen","vi":186,"ra":"success","b":"{\"tournament_id\":\"ZLrJF2-ggE0ihTws\",\"ticket_game\":\"false\"}","c":"game_v2","src":"rush_homescreen","g":"ludo","s":"gt:table1678871131835","vs":"cash","fu":"YOU5dzukYGdrl0fE","tu":"{}","us":7,"v":"non_vip","f":"MM-cbd1805e-2a77-4933-8312-06c88a98c445","cs":36,"sec":"{}","t":"{\"EE_FunnelId\":\"EE-203e86c2-87e1-47e7-8eed-248b35aa3945\",\"SS_FunnelId\":\"SS-a711dd45-fa87-43b4-86fb-ebb67162b32b\"}","di":"63ee227a-4c9b-402d-8d48-adf4e13744b7","tc":"8f30095ad6435ba8","r":"c2ce8820-1672-44b0-965b-d472dc78a478","cts":1690024495497,"av":"android-1.0.631.CDF","dt":"Android","ov":30,"msisdn":"+919452995292","nw":"WIFI_METERED","ri":"63ee227a-4c9b-402d-8d48-adf4e13744b7","ser":"{\"RAM\":\"2.73 GB\",\"Storage\":[{\"Free\":\"35.65 GB\",\"Total\":\"59.6 GB\"}]}","k":"rush","uk":"rush","ver":"v2","ts":1690024495}
+2023-07-22 16:44:55.501 10775-10868/com.hike.mazuma.debug D/RushAnalytics: events written to  file! Size now :13183bytes

@@ -1,0 +1,20 @@
+2023-07-22 16:44:40.458 6553-6857/com.hike.mazuma.debug I/WM-WorkerWrapper: Work [ id=6867df18-0542-4888-865c-802b157768a8, tags={ com.httpmanager.work.HttpWorker, work_tag_without_constraint0 } ] was cancelled
+    java.util.concurrent.CancellationException: Task was cancelled.
+        at androidx.work.impl.utils.futures.AbstractFuture.cancellationExceptionWithCause(AbstractFuture.java:1184)
+        at androidx.work.impl.utils.futures.AbstractFuture.getDoneValue(AbstractFuture.java:514)
+        at androidx.work.impl.utils.futures.AbstractFuture.get(AbstractFuture.java:475)
+        at androidx.work.impl.WorkerWrapper$2.run(WorkerWrapper.java:311)
+        at androidx.work.impl.utils.SerialExecutor$Task.run(SerialExecutor.java:91)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at java.lang.Thread.run(Thread.java:923)
+2023-07-22 16:44:39.448 6553-6996/com.hike.mazuma.debug I/Http: LogFull : 
+    Request{
+    		url : https://api-staging.getrushapp.com/v1/logs/analytics
+    		id : d8f8c352d4e6fa4f57696d66b722caf6
+    } removing key in map
+2023-07-22 16:44:35.934 10775-10775/com.hike.mazuma.debug D/AccountManager: unityProcessSyncDataFromMainProcess with contactInfo ContactInfo(appUnderMaintainenceConfig=AppUnderMaintainenceConfig(show=false, title=Hey! We never met :) 
+    Let's spend sometime together until our devs get things back
+    Btw, don't worry your money is safe!, message=Your money is safe with us
+    You will be able to resume playing soon, langData=LangDataAppMaintenance(hindi=AppUnderMaintainenceConfig(show=null, title=हम थोड़ी देर के लिए मेंटेनेंस पर हैं, message=आपका पैसा हमारे पास सुरक्षित है
+    आप जल्द ही खेलना फिर से शुरू कर सकते है, langData=null))), vipMembershipExpiryTs=null, avatarUrl=https://storage.googleapis.com/selfie-avatar/rush/stag/3d/avatars/YOU5dzukYGdrl0fE/12307eeb-c7f0-4540-b1b8-7183b1fd0fff.png, fullbodyAvatarUrl=https://storage.googleapis.com/selfie-avatar/rush/stag/3d/fb_avatars/YOU5dzukYGdrl0fE/06f95581-344c-4620-9d54-16954fcf41be.png, userStats=UserStats(totalGamesPlayed=59, totalGamesWon=34, lifetimeWinnings=128.4, bestGtRank=0), avatarGender=male, genderVerified=false, bonusAvailable=false, bonusId=null, token=JYUHJ4z5KXEH5ILu=, uid=YOU5dzukYGdrl0fE, success=true, bonusAmount=0.0, name=ManoharLalas, stateCode=MH, bonusType=null, proUser=false, cashUser=true, currentReward=null, vipNudges=VipNudgesInfo(type=NEVER_VIP, daysLeft=0, saved=VipSavedInfo(total=0.0, platformFee=0.0, extraWin=0.0, bonus=0.0), potentialSaved=NonVipPotentialSavedInfo(total=5.0), bannerUrl=https://storage.googleapis.com/vibe-3d-hikemoji/prod/banners/VIP.png, source=null), enable3DAvatarFlow=true, nftAvatarStatus=CLAIMED, nftPurchaseText=Earn  Upto ₹150 per month, kycVerified=false, nftSuperpowerEnabled=true, nftPurchased=true, maxPossibleWinnings=35.0, animateKycBadge=null, stateName=Maharashtra, restrictedStates=[MG, TN, AD, AS, NL, OD, SK, TS], profanityPopUpCount=2)  & user info UserWalletInfo(wallet=Wallet(metadata=com.hike.mazuma.ui.homeactivity.pojos.Metadata@7071f1b, name=+919452995292, walletMoneyList=[WalletMoneyListItem(amount=0.0, conversionFactor=1.0, fundsCategory=DEPOSIT, currency=INR, displayCurrency=INR), WalletMoneyListItem(amount=25.8, conversionFactor=1.0, fundsCategory=WINNING, currency=INR, displayCurrency=INR), WalletMoneyListItem(amount=10.95, conversionFactor=1.0, fundsCategory=BONUS, currency=INR, displayCurrency=INR)], walletLimits=WalletLimits(consumedMonthlyDebit=29.9, monthlyDebitLimit=1.0E8, consumedMonthlyCredit=39.85, monthlyCreditLimit=1.0E8)), status=SUCCESS, disableWithdrawal=false, withdrawalDisabledReason=null)
